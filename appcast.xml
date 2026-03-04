@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.3</title>
+            <title>Version 1.5.4</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.3</h2>
-                <p>Mises à jour automatiques Sparkle + correctif affichage version</p>
+                <h2>Sales Whisperer 1.5.4</h2>
+                <p>Test workflow auto-update Sparkle</p>
             ]]></description>
-            <pubDate>Wed, 04 Mar 2026 01:31:04 +0100</pubDate>
+            <pubDate>Wed, 04 Mar 2026 01:42:26 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.3/SalesWhispererApp_v1.5.3_b1.dmg"
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.4/SalesWhispererApp_v1.5.4_b1.dmg"
                 sparkle:version="1"
-                sparkle:shortVersionString="1.5.3"
-                sparkle:edSignature="aWJCsopXhaFUGy1etrkemuKdzP2RHqMhqDNDgz+KzJEnR3dGLisqPAcZzWLBMTuN1r88ZPFqp/K+skxnsZxjBw=="
-                length="4025577"
+                sparkle:shortVersionString="1.5.4"
+                sparkle:edSignature="/SxZP4M0ZTr3S4lv1mmf4bulAz7CQSbSpm5+0BVBvDsYZajBBC0iA7tCQcixb57gpCW8F/n1rXMbh3s5y2F5Cw=="
+                length="4025550"
                 type="application/octet-stream"
             />
         </item>
