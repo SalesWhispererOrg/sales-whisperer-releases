@@ -11,11 +11,11 @@
                 <h2>Sales Whisperer 1.5.5</h2>
                 <p>Vérification automatique des mises à jour au lancement + menu natif</p>
             ]]></description>
-            <pubDate>Wed, 04 Mar 2026 02:14:49 +0100</pubDate>
+            <pubDate>Wed, 04 Mar 2026 02:19:48 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.5/SalesWhisperer-1.5.5.dmg"
-                sparkle:version="1"
+                sparkle:version="1.5.5"
                 sparkle:shortVersionString="1.5.5"
                 sparkle:edSignature="BWzVCtfesKf5vJpbWGcde1W3pMUG+PALSQ9RKTWtLU9CG/oUd8hIqGD67VnFO1m7cVSZDDY5DRGxyJIpHI6YAg=="
                 length="4129871"
