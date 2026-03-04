@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.6</title>
+            <title>Version 1.5.7</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.6</h2>
+                <h2>Sales Whisperer 1.5.7</h2>
                 <p>Améliorations de stabilité et corrections de bugs</p>
             ]]></description>
-            <pubDate>Wed, 04 Mar 2026 10:10:23 +0100</pubDate>
+            <pubDate>Wed, 04 Mar 2026 10:12:03 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.6/SalesWhisperer-1.5.6.dmg"
-                sparkle:version="1.5.6"
-                sparkle:shortVersionString="1.5.6"
-                sparkle:edSignature="vBzmPhkf1iV/p7XtMZS0UEO/yfv9RfI9pfCQV0onDH+H3YEI50HeGRI2BDRH2cx+AOxjQXTSxxXy5e9FwIlWCA=="
-                length="4175443"
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.7/SalesWhisperer-1.5.7.dmg"
+                sparkle:version="1.5.7"
+                sparkle:shortVersionString="1.5.7"
+                sparkle:edSignature="lVPMRCtCn93nBdMPB2kt7+kTPMrJKrkgGR6E/oM7DLS80NhExlkJqV8hGIeJ1y0bF3BX9QE+RYM7GVAGQbzbAA=="
+                length="4175301"
                 type="application/octet-stream"
             />
         </item>
