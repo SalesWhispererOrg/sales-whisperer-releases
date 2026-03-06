@@ -6,6 +6,23 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
+            <title>Version 1.5.17</title>
+            <description><![CDATA[
+                <h2>Sales Whisperer 1.5.17</h2>
+                <p>Limites IA persistantes : blocage jusqu'au reset du quota (minuit), compteur de temps restant</p>
+            ]]></description>
+            <pubDate>Thu, 06 Mar 2026 16:37:00 +0100</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.17/SalesWhisperer-1.5.17.dmg"
+                sparkle:version="1.5.17"
+                sparkle:shortVersionString="1.5.17"
+                sparkle:edSignature="0PbfAOcb918ngfLpHifCgV8fL4XmoN+gvy0U1jSeQzse7cW/aOA8ah6FRJmHR1n1huVVwYRnbeXbYzcrfpejCQ=="
+                length="50809457"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 1.5.16</title>
             <description><![CDATA[
                 <h2>Sales Whisperer 1.5.16</h2>
