@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.15</title>
+            <title>Version 1.5.16</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.15</h2>
-                <p>Fix: conversation vide au lancement de l'app</p>
+                <h2>Sales Whisperer 1.5.16</h2>
+                <p>Limites IA: message correct, arrêt appel, boutons désactivés, contexte intelligent</p>
             ]]></description>
-            <pubDate>Thu, 06 Mar 2026 15:00:00 +0100</pubDate>
+            <pubDate>Thu, 06 Mar 2026 16:00:00 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.15/SalesWhisperer-1.5.15.dmg"
-                sparkle:version="1.5.15"
-                sparkle:shortVersionString="1.5.15"
-                sparkle:edSignature="f10mGAzmEUqHwUs1GA798InrbSKNPD1fauM9Ert+Qs4TYTyTux2G5wcqeAOCF+Kba9D0wnEScWHB5pEivK8ACg=="
-                length="50797099"
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.16/SalesWhisperer-1.5.16.dmg"
+                sparkle:version="1.5.16"
+                sparkle:shortVersionString="1.5.16"
+                sparkle:edSignature="WE9g2+JRLFuJD4ESn1594eCityYsCUH3oymNcZUW1NYLMZfZ8f34M0KlohGtExh4zpvJ4QZlYfVNWD1eaC5aCg=="
+                length="50794237"
                 type="application/octet-stream"
             />
         </item>
