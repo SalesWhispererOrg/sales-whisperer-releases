@@ -6,6 +6,23 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
+            <title>Version 1.5.22</title>
+            <description><![CDATA[
+                <h2>Sales Whisperer 1.5.22</h2>
+                <p>SAL-108 : Prompts configurables depuis le dashboard (email de suivi, assistant général, contexte business, suggestions)</p>
+            ]]></description>
+            <pubDate>Fri, 07 Mar 2026 17:55:00 +0100</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.22/SalesWhisperer-v1.5.22.dmg"
+                sparkle:version="1.5.22"
+                sparkle:shortVersionString="1.5.22"
+                sparkle:edSignature="ifwFp4N8EN+ckWz/9/9q+T6p8XBr/pYCtB+O5HebGkZznnsDd/xuxc6xRaVpUbMug96K1PLwtunjUKYWfKFHDQ=="
+                length="50813967"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 1.5.21</title>
             <description><![CDATA[
                 <h2>Sales Whisperer 1.5.21</h2>
