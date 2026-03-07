@@ -6,6 +6,23 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
+            <title>Version 1.5.19</title>
+            <description><![CDATA[
+                <h2>Sales Whisperer 1.5.19</h2>
+                <p>Redesign de la page de connexion OAuth : style moderne, animations, redirection vers le Dashboard</p>
+            ]]></description>
+            <pubDate>Fri, 07 Mar 2026 15:42:00 +0100</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.19/SalesWhisperer-v1.5.19.dmg"
+                sparkle:version="1.5.19"
+                sparkle:shortVersionString="1.5.19"
+                sparkle:edSignature="RwUyU2luassd2gxQgtedOTgcXCrG0b1DXFzgYuPA1YANwl3yHYVbfWtYpIYwSci3QeTncu6pKwvSpLUF8nU6Bw=="
+                length="50811325"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 1.5.18</title>
             <description><![CDATA[
                 <h2>Sales Whisperer 1.5.18</h2>
