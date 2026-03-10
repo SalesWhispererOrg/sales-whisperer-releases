@@ -9,16 +9,16 @@
             <title>Version 1.5.29</title>
             <description><![CDATA[
                 <h2>Sales Whisperer 1.5.29</h2>
-                <p>Séparation Dev/Prod, badge DEV, Sparkle désactivé en DEV</p>
+                <p>Renommage SalesWhisperer.io, icône DEV rouge, séparation Dev/Prod</p>
             ]]></description>
-            <pubDate>Tue, 10 Mar 2026 20:00:07 +0100</pubDate>
+            <pubDate>Tue, 10 Mar 2026 20:16:36 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.29/SalesWhispererApp_v1.5.29_b1.5.29.dmg"
                 sparkle:version="1.5.29"
                 sparkle:shortVersionString="1.5.29"
-                sparkle:edSignature="fbvFHBa9aGTvh51lTbHsqTD6z5Vbrh/BqJoHhcQgIYlQl5INV+yHGcygVW9Frz145LvW2ZFDCSbIs+Zz3jcsCw=="
-                length="52845924"
+                sparkle:edSignature="XbQIvzMQKDHXmbL/uAwaJkXXW766s05Im2i2B5u6uwpu9pxK8AFecNLAnVhmMdFtU7rFI8w9mVtr56cjunXGAw=="
+                length="52875452"
                 type="application/octet-stream"
             />
         </item>
