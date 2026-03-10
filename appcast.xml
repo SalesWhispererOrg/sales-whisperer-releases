@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.26</title>
+            <title>Version 1.5.27</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.26</h2>
-                <p>Système de crédits (SAL-207) : remplacement des minutes par des crédits invisibles, vérification des crédits pendant l'appel toutes les 10s, messages d'upgrade simplifiés.</p>
+                <h2>Sales Whisperer 1.5.27</h2>
+                <p>Paramètres admin: crédits dérivés uniquement du coût $ (1 crédit = 0,01 $). Pas d'unités OpenAI/Deepgram distinctes.</p>
             ]]></description>
-            <pubDate>Tue, 10 Mar 2026 10:55:27 +0100</pubDate>
+            <pubDate>Tue, 10 Mar 2026 11:26:32 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.26/SalesWhispererApp_v1.5.26_b1.5.26.dmg"
-                sparkle:version="1.5.26"
-                sparkle:shortVersionString="1.5.26"
-                sparkle:edSignature="SqUGQn9b5a3rxBEksnvbpzAImgAZw+AK42rv7zvc5IuNtmFjrombUBAa5EhHaFhklk3JaPfkbP/54YG+7DecCQ=="
-                length="52856706"
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.27/SalesWhispererApp_v1.5.27_b1.5.27.dmg"
+                sparkle:version="1.5.27"
+                sparkle:shortVersionString="1.5.27"
+                sparkle:edSignature="VF6zCfydJF9fxp6iNwe205UeW6QQtm6/3cLqpYgwwSrh0HI33rQ9Dgqu/ChOup1uxx0dq6Rj9i2GSfzBqXzQDA=="
+                length="52859847"
                 type="application/octet-stream"
             />
         </item>
