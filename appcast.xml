@@ -6,23 +6,23 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.36</title>
+            <title>Version 1.5.37</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.36</h2>
+                <h2>Sales Whisperer 1.5.37</h2>
                 <ul>
-                    <li>Fix : la fenêtre de résumé post-appel s'affiche désormais même si la sauvegarde DB échoue</li>
-                    <li>Fix : appels IA fonctionnels pour tous les utilisateurs en mode proxy</li>
-                    <li>Fix RLS : politique SELECT user_plans pour les utilisateurs non-admin</li>
+                    <li>Fix : parsing robuste de l'analyse IA post-appel (tolère les champs manquants ou renommés)</li>
+                    <li>Support camelCase et snake_case dans les réponses OpenAI</li>
+                    <li>Fenêtre de résumé post-appel fiable même en cas d'erreur DB</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 12 Mar 2026 14:00:00 +0100</pubDate>
+            <pubDate>Wed, 12 Mar 2026 15:00:00 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.36/SalesWhispererApp_v1.5.36_b1.5.36.dmg"
-                sparkle:version="1.5.36"
-                sparkle:shortVersionString="1.5.36"
-                sparkle:edSignature="Tl4qm148msTihQOCrkHoGX/b4/yp5FcBLb2A2xWruSUJHUn4iFTDMiFNWJekdzcKxoknoTe8yn758Ne8s0PTDQ=="
-                length="50464412"
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.37/SalesWhispererApp_v1.5.37_b1.5.37.dmg"
+                sparkle:version="1.5.37"
+                sparkle:shortVersionString="1.5.37"
+                sparkle:edSignature="SCEe1o8z9nRFr9+Yr+ZzKZqyaPJAmODwG/Mux7QzyCIId7vs4FVx7tejKl/mFjYdssw6+Eih9QYOupdC7DLODA=="
+                length="50458288"
                 type="application/octet-stream"
             />
         </item>
