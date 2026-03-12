@@ -6,25 +6,22 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.34</title>
+            <title>Version 1.5.35</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.34</h2>
+                <h2>Sales Whisperer 1.5.35</h2>
                 <ul>
-                    <li>Limites de crédits lues dynamiquement depuis la DB</li>
-                    <li>Dashboard admin : coût API, revenu et marge par utilisateur</li>
-                    <li>Heartbeat Deepgram pour logging incrémental</li>
-                    <li>Mode furtif dans les Paramètres (actif par défaut pour Performance)</li>
-                    <li>Fix graphe Cumulé vs Budget</li>
+                    <li>Fix : les appels IA (assistance, suivi) fonctionnent désormais pour tous les utilisateurs en mode proxy</li>
+                    <li>Suppression du blocage erroné par vérification de clé API locale en mode authentifié</li>
                 </ul>
             ]]></description>
-            <pubDate>Thu, 12 Mar 2026 03:12:00 +0100</pubDate>
+            <pubDate>Wed, 12 Mar 2026 04:30:00 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.34/SalesWhispererApp_v1.5.34_b1.5.34.dmg"
-                sparkle:version="1.5.34"
-                sparkle:shortVersionString="1.5.34"
-                sparkle:edSignature="pzuAoEr5GmpSyTKbSm13O4k++8uDHSuV0/jMNX9o5ek/BDbTie2ONEtCwQwMhbeLncMIrbb/LCkmCbyS1TzfBA=="
-                length="50468271"
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.35/SalesWhispererApp_v1.5.35_b1.5.35.dmg"
+                sparkle:version="1.5.35"
+                sparkle:shortVersionString="1.5.35"
+                sparkle:edSignature="eCU/Cl66qRRdtGdF7YiZdTO5pnso1dEmTjociXpumxGPjcIyDYJdNgl5sTiSvFYI0gBfW2KK4R9EYV055mVPDA=="
+                length="50464497"
                 type="application/octet-stream"
             />
         </item>
