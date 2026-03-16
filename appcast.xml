@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.43</title>
+            <title>Version 1.5.44</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.43</h2>
-                <p>Fix: logo officiel Sales Whisperer sur la page de connexion OAuth</p>
+                <h2>Sales Whisperer 1.5.44</h2>
+                <p>Migration vers SalesWhispererOrg, fix detection appel de test</p>
             ]]></description>
-            <pubDate>Sun, 15 Mar 2026 19:56:10 +0100</pubDate>
+            <pubDate>Mon, 16 Mar 2026 23:06:25 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.43/SalesWhispererApp_v1.5.43_b1.5.43.dmg"
-                sparkle:version="1.5.43"
-                sparkle:shortVersionString="1.5.43"
-                sparkle:edSignature="ZRlRfh8+6U9ibBbATQT0UODJ+2P5nXzG3ejlqL53lbW2soxpgXNRyT5xLOPBhdiNROSM1GJI4ixcLAOetqDHBA=="
-                length="50533282"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.44/SalesWhispererApp_v1.5.44_b1.5.44.dmg"
+                sparkle:version="1.5.44"
+                sparkle:shortVersionString="1.5.44"
+                sparkle:edSignature="i3J0p0uimLnw0F/hvuXT0/1qigkxrG6NlFJlkv4wNXj/cv2iAjOJY5M4MP4E8lM8hk39tdCxk0dEnMRxwuohAA=="
+                length="50529119"
                 type="application/octet-stream"
             />
         </item>
