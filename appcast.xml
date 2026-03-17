@@ -9,16 +9,16 @@
             <title>Version 1.5.45</title>
             <description><![CDATA[
                 <h2>Sales Whisperer 1.5.45</h2>
-                <p>Nouveau DMG background, suppression logs sensibles, corrections sécurité</p>
+                <p>Clean DMG background, suppression logs sensibles, corrections sécurité</p>
             ]]></description>
-            <pubDate>Tue, 17 Mar 2026 16:42:32 +0100</pubDate>
+            <pubDate>Tue, 17 Mar 2026 16:56:34 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.45/SalesWhispererApp_v1.5.45_b1.5.45.dmg"
                 sparkle:version="1.5.45"
                 sparkle:shortVersionString="1.5.45"
-                sparkle:edSignature="NkM3Jz62qUgI094QGjOSP8qymUT9/qMLsoUbvoraD51yfbWwadAsR4V34Cna6yt94idkyORUrWd3mTw3eKvXCQ=="
-                length="51382358"
+                sparkle:edSignature="RSkH8/AbI7RUDi/pCmBNDwWMMu4/NFqgqTRpWFtrjzV1AaVl5sqb/i78KyxiBez0kAO27we95QRV9x+V0E9HCw=="
+                length="50482905"
                 type="application/octet-stream"
             />
         </item>
