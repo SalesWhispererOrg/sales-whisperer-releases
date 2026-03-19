@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.49</title>
+            <title>Version 1.5.50</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.49</h2>
-                <p>v1.5.49: Nouveau thème visuel Gemini — contour gradient rotatif, palette cyan/violet/rose, boutons bleu d'origine, icônes blanc</p>
+                <h2>Sales Whisperer 1.5.50</h2>
+                <p>Améliorations de performances et corrections de bugs.</p>
             ]]></description>
-            <pubDate>Thu, 19 Mar 2026 12:56:41 +0100</pubDate>
+            <pubDate>Thu, 19 Mar 2026 13:17:42 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.49/SalesWhispererApp_v1.5.49_b1.5.49.dmg"
-                sparkle:version="1.5.49"
-                sparkle:shortVersionString="1.5.49"
-                sparkle:edSignature="3GtBPYoFWaPEaR7ZTIE3HcjFWNzQlYB9I32PN9byj50PncUZ3xaZGXBaoJtmdi/ExeYEmEMnzDM+Ov7Ln+rKBg=="
-                length="50666971"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.50/SalesWhispererApp_v1.5.50_b1.5.50.dmg"
+                sparkle:version="1.5.50"
+                sparkle:shortVersionString="1.5.50"
+                sparkle:edSignature="XakxpE+429s8WsSSnlXZ0JWMLn528SBaU3d45scfD0v1bF1wBsA8wJHutOY85nMui23OhAXlubuhjQ2gEfZdCQ=="
+                length="50666819"
                 type="application/octet-stream"
             />
         </item>
