@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.53</title>
+            <title>Version 1.5.54</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.53</h2>
-                <p>Améliorations de la stabilité et corrections de bugs.</p>
+                <h2>Sales Whisperer 1.5.54</h2>
+                <p>Mise à jour vers la version 1.5.54</p>
             ]]></description>
-            <pubDate>Thu, 19 Mar 2026 16:51:07 +0100</pubDate>
+            <pubDate>Fri, 20 Mar 2026 02:12:53 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.53/SalesWhispererApp_v1.5.53_b1.5.53.dmg"
-                sparkle:version="1.5.53"
-                sparkle:shortVersionString="1.5.53"
-                sparkle:edSignature="HKlgpKLQiWoJfuKUtIYcnL3W39bEZCJMhNUifknA85BiNOi1IxsGZv08dq/S3VzQez1A/pO65xBzaCMznbE0Ag=="
-                length="50676129"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.54/SalesWhispererApp_v1.5.54_b1.5.54.dmg"
+                sparkle:version="1.5.54"
+                sparkle:shortVersionString="1.5.54"
+                sparkle:edSignature="k3v2gsQN6tmQx4icj3hX845fFmjJ9nRGovQro/XL8lD8A/knRZ0ADmR6WjghH5Z0/AlOujsPy/MpezCEij35AQ=="
+                length="50691437"
                 type="application/octet-stream"
             />
         </item>
