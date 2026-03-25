@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.54</title>
+            <title>Version 1.5.55</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.54</h2>
-                <p>Mise à jour vers la version 1.5.54</p>
+                <h2>Sales Whisperer 1.5.55</h2>
+                <p>Bilingual AI pipeline: AI suggestions, analysis, and live coaching now respond in the user's selected language (French or English). Improved prompt consistency across all AI features.</p>
             ]]></description>
-            <pubDate>Fri, 20 Mar 2026 02:12:53 +0100</pubDate>
+            <pubDate>Wed, 25 Mar 2026 22:33:52 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.54/SalesWhispererApp_v1.5.54_b1.5.54.dmg"
-                sparkle:version="1.5.54"
-                sparkle:shortVersionString="1.5.54"
-                sparkle:edSignature="k3v2gsQN6tmQx4icj3hX845fFmjJ9nRGovQro/XL8lD8A/knRZ0ADmR6WjghH5Z0/AlOujsPy/MpezCEij35AQ=="
-                length="50691437"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.55/SalesWhispererApp_v1.5.55_b1.5.55.dmg"
+                sparkle:version="1.5.55"
+                sparkle:shortVersionString="1.5.55"
+                sparkle:edSignature="3FksH2uGnca3T1y4+kVxy3u6NJeYrS2bQHHSyHwkThA2+i77jvi04prNJa2HAsaneToI0gFd+x6ptGTmKMLvAw=="
+                length="50752920"
                 type="application/octet-stream"
             />
         </item>
