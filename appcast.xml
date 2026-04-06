@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.56</title>
+            <title>Version 1.5.57</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.56</h2>
-                <p>Fix: UI now fully translates to English when language is set to English (buttons, tabs, timestamps, badges). Fix: AI responses now correctly follow the selected language for section headers and content.</p>
+                <h2>Sales Whisperer 1.5.57</h2>
+                <p>Fix framework scoring, add mode prompts, post-call scorecard</p>
             ]]></description>
-            <pubDate>Wed, 25 Mar 2026 22:58:01 +0100</pubDate>
+            <pubDate>Mon, 06 Apr 2026 09:32:34 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.56/SalesWhispererApp_v1.5.56_b1.5.56.dmg"
-                sparkle:version="1.5.56"
-                sparkle:shortVersionString="1.5.56"
-                sparkle:edSignature="Vq16XzHc58ZkQTr1xygweSuWsJhWb7dPaJNCeORTFknSV3QWHGYNsis0rpJOGnFrVWj00TUgXIqyKkV/FSOODQ=="
-                length="50761410"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.57/SalesWhispererApp_v1.5.57_b1.5.57.dmg"
+                sparkle:version="1.5.57"
+                sparkle:shortVersionString="1.5.57"
+                sparkle:edSignature="sqh3rMiSRW7MwRb6OIzSQIOhUM1XTw8En6XFGfeXpPSVLklLynJSH5iAXxHysryBFeLJquxmv1l/SIzrcF4qBA=="
+                length="51157947"
                 type="application/octet-stream"
             />
         </item>
