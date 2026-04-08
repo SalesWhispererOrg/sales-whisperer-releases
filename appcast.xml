@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.57</title>
+            <title>Version 1.5.59</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.57</h2>
-                <p>Fix framework scoring, add mode prompts, post-call scorecard</p>
+                <h2>Sales Whisperer 1.5.59</h2>
+                <p>Fix: Correction du formatage des réponses Assistance — les sections Analyse, Direction et Suggestion sont maintenant correctement séparées</p>
             ]]></description>
-            <pubDate>Mon, 06 Apr 2026 09:32:34 +0200</pubDate>
+            <pubDate>Wed, 08 Apr 2026 15:59:43 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.57/SalesWhispererApp_v1.5.57_b1.5.57.dmg"
-                sparkle:version="1.5.57"
-                sparkle:shortVersionString="1.5.57"
-                sparkle:edSignature="sqh3rMiSRW7MwRb6OIzSQIOhUM1XTw8En6XFGfeXpPSVLklLynJSH5iAXxHysryBFeLJquxmv1l/SIzrcF4qBA=="
-                length="51157947"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.59/SalesWhispererApp_v1.5.59_b1.5.59.dmg"
+                sparkle:version="1.5.59"
+                sparkle:shortVersionString="1.5.59"
+                sparkle:edSignature="f3n0AD2LAbYaWyT0CH6ptRvUs8H4ULQaizcTd7YL9ThqVS5Fb9WQ8LuA4JyWDEamUlp78lzsXaYrEp2pDRSlBw=="
+                length="51165422"
                 type="application/octet-stream"
             />
         </item>
