@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.61</title>
+            <title>Version 1.5.62</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.61</h2>
-                <p>Fix: bouton Assistance (FR) + format structuré pour prompts par mode d'appel</p>
+                <h2>Sales Whisperer 1.5.62</h2>
+                <p>Fix: injection des variables contextuelles (previous_suggestions, business_context) dans le system message</p>
             ]]></description>
-            <pubDate>Wed, 08 Apr 2026 20:03:03 +0200</pubDate>
+            <pubDate>Thu, 09 Apr 2026 10:14:35 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.61/SalesWhispererApp_v1.5.61.dmg"
-                sparkle:version="1.5.61"
-                sparkle:shortVersionString="1.5.61"
-                sparkle:edSignature="chYT5ln8FJgCuwa98vpbxqow0cyYwkmSnChv2jXI5Q6l9+mKhW1p2BB9HQkESHwpaF6CON39JXK/DA0lDwo5AA=="
-                length="51170334"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.62/SalesWhispererApp_v1.5.62.dmg"
+                sparkle:version="1.5.62"
+                sparkle:shortVersionString="1.5.62"
+                sparkle:edSignature="EoMGJpDiXPHxg86w5ptEtMQthtTpPFvCnWojQnR+V4GN4dpVV3EPv9Rm77cQ16fdZKwVkzxMQTqRKyXemDEGBg=="
+                length="51170791"
                 type="application/octet-stream"
             />
         </item>
