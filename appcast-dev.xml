@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.65</title>
+            <title>Version 1.5.66</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.65</h2>
-                <p>Fix: l'app DEV ouvre désormais le dashboard DEV au lieu de PROD</p>
+                <h2>Sales Whisperer 1.5.66</h2>
+                <p>Dashboard DEV pointe vers dev-pushup.saleswhisperer.io</p>
             ]]></description>
-            <pubDate>Thu, 09 Apr 2026 14:46:29 +0200</pubDate>
+            <pubDate>Thu, 09 Apr 2026 17:55:43 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.65/SalesWhispererApp-Dev_v1.5.65_b1.5.65.dmg"
-                sparkle:version="1.5.65"
-                sparkle:shortVersionString="1.5.65"
-                sparkle:edSignature="ll8jcHazl8eO6DHcntgIA7hLDSB2VJ3mS9hnA93T/dTdRmosP3hbtENXGQXua2iX7u0PsvUa7/Hu24QuRN87Bw=="
-                length="51599808"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.66/SalesWhispererApp-Dev_v1.5.66_b1.5.66.dmg"
+                sparkle:version="1.5.66"
+                sparkle:shortVersionString="1.5.66"
+                sparkle:edSignature="6gXqbp4D4S652pcbpsbwFnbZZQfEp7IYfYYmquXk0ire6OYd/Y6h2/OmpBzNGGmf7mO82nm2rloX7/18rqGBCw=="
+                length="51599807"
                 type="application/octet-stream"
             />
         </item>
