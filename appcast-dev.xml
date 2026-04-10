@@ -14,7 +14,7 @@
             <pubDate>Fri, 10 Apr 2026 15:59:55 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.67/SalesWhispererApp-Dev_v1.5.67_b1.5.67.dmg"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.67/SalesWhispererApp-Dev_v1.5.67.dmg"
                 sparkle:version="1.5.67"
                 sparkle:shortVersionString="1.5.67"
                 sparkle:edSignature="KKhFhysaEmnc1cDkIiqRNShLEDBKTCLgrbuKgLy9V3pCrFnyjczA2wwazL0ds4RHLMcj8k0UZvMHNi9x5gkDDw=="
