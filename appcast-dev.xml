@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.66</title>
+            <title>Version 1.5.67</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.66</h2>
-                <p>Dashboard DEV pointe vers dev-pushup.saleswhisperer.io</p>
+                <h2>Sales Whisperer 1.5.67</h2>
+                <p>fix: prevent Auto Layout crash from recursive window resizing</p>
             ]]></description>
-            <pubDate>Thu, 09 Apr 2026 17:55:43 +0200</pubDate>
+            <pubDate>Fri, 10 Apr 2026 15:59:55 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.66/SalesWhispererApp-Dev_v1.5.66_b1.5.66.dmg"
-                sparkle:version="1.5.66"
-                sparkle:shortVersionString="1.5.66"
-                sparkle:edSignature="6gXqbp4D4S652pcbpsbwFnbZZQfEp7IYfYYmquXk0ire6OYd/Y6h2/OmpBzNGGmf7mO82nm2rloX7/18rqGBCw=="
-                length="51599807"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.67/SalesWhispererApp-Dev_v1.5.67_b1.5.67.dmg"
+                sparkle:version="1.5.67"
+                sparkle:shortVersionString="1.5.67"
+                sparkle:edSignature="KKhFhysaEmnc1cDkIiqRNShLEDBKTCLgrbuKgLy9V3pCrFnyjczA2wwazL0ds4RHLMcj8k0UZvMHNi9x5gkDDw=="
+                length="51606123"
                 type="application/octet-stream"
             />
         </item>
