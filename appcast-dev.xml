@@ -11,14 +11,14 @@
                 <h2>Sales Whisperer 1.5.75</h2>
                 <p>Gemini theme, call modes, color themes & prompt improvements</p>
             ]]></description>
-            <pubDate>Wed, 15 Apr 2026 14:04:48 +0200</pubDate>
+            <pubDate>Wed, 15 Apr 2026 14:17:06 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.75/SalesWhispererApp-Dev_v1.5.75.dmg"
                 sparkle:version="1.5.75"
                 sparkle:shortVersionString="1.5.75"
-                sparkle:edSignature="YhOvjiSuh9pywlOdD9K63xkzDUYC/YGBs2ObY4/lq9UwylMND/3eamSRDAclrzsrYhE+nfCVlWYn2QcQ15h7AA=="
-                length="51512689"
+                sparkle:edSignature="uDywd7fCQ7lQ8ifWPmVna0Dp89ddLZu680VC7btr2Il7FTvhwcduPD9N5lY2i/PV3xnhm9QHJ19z2Wj9MbUFDA=="
+                length="51512960"
                 type="application/octet-stream"
             />
         </item>
