@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.63</title>
+            <title>Version 1.5.79</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.63</h2>
-                <p>Optimisation: la fenetre de l'assistant s'adapte dynamiquement a la taille du contenu</p>
+                <h2>Sales Whisperer 1.5.79</h2>
+                <p>Per-call language selector: choose French or English before each call. Deepgram STT and AI responses follow your choice. Full overlay UI localization fixes.</p>
             ]]></description>
-            <pubDate>Thu, 09 Apr 2026 11:40:34 +0200</pubDate>
+            <pubDate>Wed, 15 Apr 2026 22:20:42 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.63/SalesWhispererApp_v1.5.63.dmg"
-                sparkle:version="1.5.63"
-                sparkle:shortVersionString="1.5.63"
-                sparkle:edSignature="0ENYt2lcRgFADNK+rJGj7hWYFlG2tNfrDgr46SSG96dl3IcHDZMlr2rOxPeSGFpx1896vAveGIAOKo+6xtpwDw=="
-                length="51171419"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.79/SalesWhispererApp_v1.5.79.dmg"
+                sparkle:version="1.5.79"
+                sparkle:shortVersionString="1.5.79"
+                sparkle:edSignature="zyVFVlwPuLL2zpEe7KFM4kvGHdxBUkGgpfPrgEs8CXzm8+lj1x0082hAko5T1mXQAkbMn98nUdsYNPnPwVl5DA=="
+                length="51123954"
                 type="application/octet-stream"
             />
         </item>
