@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.82</title>
+            <title>Version 1.5.83</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.82</h2>
-                <p>SAL-263: Correction user_template Dashboard appliqué dans le chat direct</p>
+                <h2>Sales Whisperer 1.5.83</h2>
+                <p>Fix: doublon <goal> supprimé dans les prompts + cache Quick Actions réduit à 5min</p>
             ]]></description>
-            <pubDate>Fri, 17 Apr 2026 15:54:36 +0200</pubDate>
+            <pubDate>Fri, 17 Apr 2026 17:20:03 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.82/SalesWhispererApp-Dev_v1.5.82_b1.5.82.dmg"
-                sparkle:version="1.5.82"
-                sparkle:shortVersionString="1.5.82"
-                sparkle:edSignature="tnUzpa9qqzHZjZwMDQvlj4mcDq2+D/9BGo3ywcoMC7BD/zzOusEI1/T5cK/HgoCmbTZZd6Xmu/9WzsNDu1S1AQ=="
-                length="51549756"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.83/SalesWhispererApp-Dev_v1.5.83_b1.5.83.dmg"
+                sparkle:version="1.5.83"
+                sparkle:shortVersionString="1.5.83"
+                sparkle:edSignature="4e2uyu+OZXE/4TJwAJC8AQ2+5XqZbvFLU3xeKPCbCMp5LVT/RVWkGEISNcuRKXQ675OcuVR16nPl3k+PB73SBQ=="
+                length="51549385"
                 type="application/octet-stream"
             />
         </item>
