@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.81</title>
+            <title>Version 1.5.82</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.81</h2>
-                <p>SAL-258: Message redémarrage mode furtif | SAL-255: Séparation system/user prompts | SAL-263: Instructions personnalisées injectées dans l'IA</p>
+                <h2>Sales Whisperer 1.5.82</h2>
+                <p>SAL-263: Correction user_template Dashboard appliqué dans le chat direct</p>
             ]]></description>
-            <pubDate>Fri, 17 Apr 2026 15:22:38 +0200</pubDate>
+            <pubDate>Fri, 17 Apr 2026 15:54:36 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.81/SalesWhispererApp-Dev_v1.5.81_b1.5.81.dmg"
-                sparkle:version="1.5.81"
-                sparkle:shortVersionString="1.5.81"
-                sparkle:edSignature="T52Bei+NmGt+ibug2nHlrSK0+IncRi8lKEQwgwZ0u5ipnCV+AtB7+VepRAP7mZjarjXvuxEAMBB3PwX+HrGcAg=="
-                length="51545355"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.82/SalesWhispererApp-Dev_v1.5.82_b1.5.82.dmg"
+                sparkle:version="1.5.82"
+                sparkle:shortVersionString="1.5.82"
+                sparkle:edSignature="tnUzpa9qqzHZjZwMDQvlj4mcDq2+D/9BGo3ywcoMC7BD/zzOusEI1/T5cK/HgoCmbTZZd6Xmu/9WzsNDu1S1AQ=="
+                length="51549756"
                 type="application/octet-stream"
             />
         </item>
