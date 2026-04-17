@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.83</title>
+            <title>Version 1.5.84</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.83</h2>
-                <p>Fix: doublon <goal> supprimé dans les prompts + cache Quick Actions réduit à 5min</p>
+                <h2>Sales Whisperer 1.5.84</h2>
+                <p>Fix: interpolation des variables dans le system prompt ({{previous_suggestions}} etc.)</p>
             ]]></description>
-            <pubDate>Fri, 17 Apr 2026 17:20:03 +0200</pubDate>
+            <pubDate>Fri, 17 Apr 2026 17:58:05 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.83/SalesWhispererApp-Dev_v1.5.83_b1.5.83.dmg"
-                sparkle:version="1.5.83"
-                sparkle:shortVersionString="1.5.83"
-                sparkle:edSignature="4e2uyu+OZXE/4TJwAJC8AQ2+5XqZbvFLU3xeKPCbCMp5LVT/RVWkGEISNcuRKXQ675OcuVR16nPl3k+PB73SBQ=="
-                length="51549385"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.84/SalesWhispererApp-Dev_v1.5.84_b1.5.84.dmg"
+                sparkle:version="1.5.84"
+                sparkle:shortVersionString="1.5.84"
+                sparkle:edSignature="R2rTmyr5dA/NzsLRoX9GIGBMglcJtKG2ShmCidKaDIOh54pWIj6T8FlBm1oHh4C2jBm/LI+9v20r4N7xj/c6Bg=="
+                length="51545366"
                 type="application/octet-stream"
             />
         </item>
