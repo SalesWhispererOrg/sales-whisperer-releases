@@ -6,38 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.86</title>
+            <title>Version 1.5.87</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.86</h2>
-                <p>v1.5.86 (DEV)
-
-Performance & latence :
-- Fix critique : streaming des reponses IA (plus de delais de 40s sur les assistances suivantes)
-- Throttle UI a 80ms pour un affichage fluide pendant le streaming
-- Quota check non-bloquant : la reponse IA demarre en parallele
-- Deepgram : suppression des erreurs de decodage qui saturaient les logs
-
-SAL-270 - Analyse d'appel enrichie (Phase 1) :
-- Sous-scores : Discovery / Active Listening / Objection Handling / Closing
-- Ratio de parole rep vs prospect
-- Nombre de questions posees
-- Recommandations IA avec priorite
-- Sujets manques (checklist non couverte)
-- Affichage enrichi dans la fenetre post-appel ET dans le Dashboard web
-
-A tester :
-1. Faire un appel avec 4-5 assistances : verifier qu'aucune ne traine (latence stream coherente ~2-3s)
-2. Terminer l'appel et verifier la fenetre post-appel : nouveaux blocs visibles
-3. Aller voir le meme appel sur dev-pushup.saleswhisperer.io : Dashboard enrichi</p>
+                <h2>Sales Whisperer 1.5.87</h2>
+                <p>DEV v1.5.87 — SAL-164 (Business Context restructuré) + SAL-270 P1.1 (métriques déterministes & prompts enrichis post-call)</p>
             ]]></description>
-            <pubDate>Sat, 18 Apr 2026 16:11:59 +0200</pubDate>
+            <pubDate>Sun, 19 Apr 2026 22:38:34 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.86/SalesWhispererApp-Dev_v1.5.86_b1.5.86.dmg"
-                sparkle:version="1.5.86"
-                sparkle:shortVersionString="1.5.86"
-                sparkle:edSignature="H5Wm7UHktZICVk8WtBc+0d8Xg+XEjfblg0ldtHydOmYp2/+qS4zLyb079NHqPb7r4fi713M9fzPO5g8WnXhtDQ=="
-                length="51672444"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.87/SalesWhispererApp-Dev_v1.5.87_b1.5.87.dmg"
+                sparkle:version="1.5.87"
+                sparkle:shortVersionString="1.5.87"
+                sparkle:edSignature="8rTQJzL9nJyID0gPBrfhAlxdWGZE+IJgkTCRJtLAY7kHTyRkDzR6BumOKa6la/lBaSFFAifLwOJY5i6FWbU8Bw=="
+                length="51716959"
                 type="application/octet-stream"
             />
         </item>
