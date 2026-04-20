@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.90</title>
+            <title>Version 1.5.91</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.90</h2>
-                <p>Fix SAL-275 : enregistrement du type d'appel (call_mode) en base — la colonne « Type d'appel » du dashboard est désormais correctement renseignée pour les nouveaux appels.</p>
+                <h2>Sales Whisperer 1.5.91</h2>
+                <p>SAL-275 (suite à comm Ugo) : ajout d'un badge avec icône du type d'appel directement dans le résumé post-appel (macOS) et dans la page de détail d'un appel (Dashboard).</p>
             ]]></description>
-            <pubDate>Mon, 20 Apr 2026 15:56:10 +0200</pubDate>
+            <pubDate>Mon, 20 Apr 2026 17:06:06 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.90/SalesWhispererApp-Dev_v1.5.90_b1.5.90.dmg"
-                sparkle:version="1.5.90"
-                sparkle:shortVersionString="1.5.90"
-                sparkle:edSignature="eRA+bWkwdpNv+h74raxATU2B1kypgebEE9m4zjY96zC6TApnLfNdyv30iFG9AHE/hSYM2tmxQNzdNFG3gfBLBg=="
-                length="51725829"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.91/SalesWhispererApp-Dev_v1.5.91_b1.5.91.dmg"
+                sparkle:version="1.5.91"
+                sparkle:shortVersionString="1.5.91"
+                sparkle:edSignature="BoKsR7rFbS6wTcpsBiYBVkolUiDpn4yk5ZlQfRaNd13JkHbsxEj67YhfXOcGtdtKM6P2necYBPJYy491XO16Dw=="
+                length="51722638"
                 type="application/octet-stream"
             />
         </item>
