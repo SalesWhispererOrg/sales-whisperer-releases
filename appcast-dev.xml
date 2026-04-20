@@ -6,24 +6,24 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.92</title>
+            <title>Version 1.5.93</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.92</h2>
-                <p>SAL-277 — Prompts bilingues natifs FR/EN (Phase 1)
+                <h2>Sales Whisperer 1.5.93</h2>
+                <p>SAL-277 Phase 2 — Prompts post-call 100% natifs FR/EN
 
-• Architecture: nouveaux champs system_message_fr/_en + user_template_fr/_en
-• Résolution intelligente: variant natif > legacy fallback
-• Compatibilité 100% rétro avec prompts existants
-• Admin Dashboard: édition côte-à-côte FR / EN / Commun</p>
+• 9 prompts d'analyse post-appel réécrits en FR / EN natifs (plus de placeholder {{response_language}})
+• Fusion Couche 1 (persona + axes) + Couche 2 SAL-270 (dimensions communes) en un seul prompt cohérent par langue
+• Plus rapide, moins cher, plus déterministe côté LLM (plus de traduction à la volée)
+• Fallback legacy intact pour les anciennes versions</p>
             ]]></description>
-            <pubDate>Mon, 20 Apr 2026 17:35:56 +0200</pubDate>
+            <pubDate>Mon, 20 Apr 2026 18:05:11 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.92/SalesWhispererApp-Dev_v1.5.92_b1.5.92.dmg"
-                sparkle:version="1.5.92"
-                sparkle:shortVersionString="1.5.92"
-                sparkle:edSignature="zhcQwrEnd915geu1u0pPkwQVLNiFpmADiQ3ws17upMLUj+2GaBK9HvFBF7q9/cPAve9obD/dMuU34EIKfTv1Cw=="
-                length="51733002"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.93/SalesWhispererApp-Dev_v1.5.93_b1.5.93.dmg"
+                sparkle:version="1.5.93"
+                sparkle:shortVersionString="1.5.93"
+                sparkle:edSignature="d3dvLf5Ri34tFO9kzwuExgAfAWPcyEo5SFuRGe21qqBJ/Y6RmAn5RZlBHKtYQd4T5DTim0EaE8oBrR5T+3piBw=="
+                length="51732886"
                 type="application/octet-stream"
             />
         </item>
