@@ -6,19 +6,24 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.91</title>
+            <title>Version 1.5.92</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.91</h2>
-                <p>SAL-275 (suite à comm Ugo) : ajout d'un badge avec icône du type d'appel directement dans le résumé post-appel (macOS) et dans la page de détail d'un appel (Dashboard).</p>
+                <h2>Sales Whisperer 1.5.92</h2>
+                <p>SAL-277 — Prompts bilingues natifs FR/EN (Phase 1)
+
+• Architecture: nouveaux champs system_message_fr/_en + user_template_fr/_en
+• Résolution intelligente: variant natif > legacy fallback
+• Compatibilité 100% rétro avec prompts existants
+• Admin Dashboard: édition côte-à-côte FR / EN / Commun</p>
             ]]></description>
-            <pubDate>Mon, 20 Apr 2026 17:06:06 +0200</pubDate>
+            <pubDate>Mon, 20 Apr 2026 17:35:56 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.91/SalesWhispererApp-Dev_v1.5.91_b1.5.91.dmg"
-                sparkle:version="1.5.91"
-                sparkle:shortVersionString="1.5.91"
-                sparkle:edSignature="BoKsR7rFbS6wTcpsBiYBVkolUiDpn4yk5ZlQfRaNd13JkHbsxEj67YhfXOcGtdtKM6P2necYBPJYy491XO16Dw=="
-                length="51722638"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.92/SalesWhispererApp-Dev_v1.5.92_b1.5.92.dmg"
+                sparkle:version="1.5.92"
+                sparkle:shortVersionString="1.5.92"
+                sparkle:edSignature="zhcQwrEnd915geu1u0pPkwQVLNiFpmADiQ3ws17upMLUj+2GaBK9HvFBF7q9/cPAve9obD/dMuU34EIKfTv1Cw=="
+                length="51733002"
                 type="application/octet-stream"
             />
         </item>
