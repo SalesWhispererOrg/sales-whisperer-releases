@@ -6,22 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.96</title>
+            <title>Version 1.5.97</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.96</h2>
-                <p>Fix UI fenêtre Profil (suite à feedback Ugo) :
-• Restauration des bords arrondis (le hosting view écrasait le cornerRadius du contentView).
-• Réduction de la taille en largeur (520→400) et hauteur (620→440) — boutons plus compacts.
-• Header resserré : avatar 56→44, polices ajustées.</p>
+                <h2>Sales Whisperer 1.5.97</h2>
+                <p>Corrections de bugs et améliorations des performances.</p>
             ]]></description>
-            <pubDate>Tue, 21 Apr 2026 12:22:45 +0200</pubDate>
+            <pubDate>Tue, 21 Apr 2026 14:45:13 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.96/SalesWhispererApp-Dev_v1.5.96_b1.5.96.dmg"
-                sparkle:version="1.5.96"
-                sparkle:shortVersionString="1.5.96"
-                sparkle:edSignature="YSrmS+6/0q8UUEqm0eH71ZbKusuiaFxfS8Zfrw31e1Vo7git2UbnYWQRzL2zn00SZ50WO9z7DcIVEMJZ6VmeDg=="
-                length="51919775"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.97/SalesWhispererApp-Dev_v1.5.97_b1.5.97.dmg"
+                sparkle:version="1.5.97"
+                sparkle:shortVersionString="1.5.97"
+                sparkle:edSignature="G6IPCn6fzljlGkDqTAZqrSRvj/xrCYwoVmOUk+Za2csFxr4myM+BAPCQK8Ci2gc8NyODFfAh/vIl2e4IlzhwBA=="
+                length="51931946"
                 type="application/octet-stream"
             />
         </item>
