@@ -6,24 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.93</title>
+            <title>Version 1.5.94</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.93</h2>
-                <p>SAL-277 Phase 2 — Prompts post-call 100% natifs FR/EN
-
-• 9 prompts d'analyse post-appel réécrits en FR / EN natifs (plus de placeholder {{response_language}})
-• Fusion Couche 1 (persona + axes) + Couche 2 SAL-270 (dimensions communes) en un seul prompt cohérent par langue
-• Plus rapide, moins cher, plus déterministe côté LLM (plus de traduction à la volée)
-• Fallback legacy intact pour les anciennes versions</p>
+                <h2>Sales Whisperer 1.5.94</h2>
+                <p>Réactivation du raccourci Cmd+Shift+P pour ouvrir la fenêtre de visualisation des prompts (prompts chargés + historique d'utilisation en temps réel). Outil interne pour QA/admin pendant la validation des prompts bilingues FR/EN (SAL-277).</p>
             ]]></description>
-            <pubDate>Mon, 20 Apr 2026 18:05:11 +0200</pubDate>
+            <pubDate>Tue, 21 Apr 2026 10:45:33 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.93/SalesWhispererApp-Dev_v1.5.93_b1.5.93.dmg"
-                sparkle:version="1.5.93"
-                sparkle:shortVersionString="1.5.93"
-                sparkle:edSignature="d3dvLf5Ri34tFO9kzwuExgAfAWPcyEo5SFuRGe21qqBJ/Y6RmAn5RZlBHKtYQd4T5DTim0EaE8oBrR5T+3piBw=="
-                length="51732886"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.94/SalesWhispererApp-Dev_v1.5.94_b1.5.94.dmg"
+                sparkle:version="1.5.94"
+                sparkle:shortVersionString="1.5.94"
+                sparkle:edSignature="k9OyGspXhaCbRo/ffeU3eSO9lcZgwyxXrKsi+1N+UidgCCOZv77AZyZpjeDxk75ERldSkUtUv9rc7eAvafLXAA=="
+                length="51922312"
                 type="application/octet-stream"
             />
         </item>
