@@ -6,19 +6,23 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.94</title>
+            <title>Version 1.5.95</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.94</h2>
-                <p>Réactivation du raccourci Cmd+Shift+P pour ouvrir la fenêtre de visualisation des prompts (prompts chargés + historique d'utilisation en temps réel). Outil interne pour QA/admin pendant la validation des prompts bilingues FR/EN (SAL-277).</p>
+                <h2>Sales Whisperer 1.5.95</h2>
+                <p>Cluster 'Plan Gratuit' — UX & bugfixes:
+• SAL-232 : suppression du sélecteur d'objectif/style/mode pour les utilisateurs Free (pas accessible).
+• SAL-249 : refonte de la fenêtre de profil — section 'Abonnement' supprimée, remplacée par un petit badge à droite du nom (gain de place + plus de mention 'Appels illimités' trompeuse pour le plan Gratuit).
+• SAL-250 : reformulation des messages de limite ('davantage' au lieu de 'illimité') et clarification du reset journalier ('Réinitialisation à minuit, dans …') — auparavant le 'Disponible dans 1h32' laissait croire à un reset horaire.
+• Nettoyage du code mort dans UserProfileView (4 sections inutilisées supprimées).</p>
             ]]></description>
-            <pubDate>Tue, 21 Apr 2026 10:45:33 +0200</pubDate>
+            <pubDate>Tue, 21 Apr 2026 11:56:08 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.94/SalesWhispererApp-Dev_v1.5.94_b1.5.94.dmg"
-                sparkle:version="1.5.94"
-                sparkle:shortVersionString="1.5.94"
-                sparkle:edSignature="k9OyGspXhaCbRo/ffeU3eSO9lcZgwyxXrKsi+1N+UidgCCOZv77AZyZpjeDxk75ERldSkUtUv9rc7eAvafLXAA=="
-                length="51922312"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.95/SalesWhispererApp-Dev_v1.5.95_b1.5.95.dmg"
+                sparkle:version="1.5.95"
+                sparkle:shortVersionString="1.5.95"
+                sparkle:edSignature="knFJ01B9jHhFbYbmV6QnCNo8UW9bcI4VeDmqMpROvUOe3ZLxsSPs1bTJtPY5lJw0NGCak4bRxM89wqb7bHCzDQ=="
+                length="51919581"
                 type="application/octet-stream"
             />
         </item>
