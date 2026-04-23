@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.97</title>
+            <title>Version 1.5.99</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.97</h2>
-                <p>Corrections de bugs et améliorations des performances.</p>
+                <h2>Sales Whisperer 1.5.99</h2>
+                <p>SAL-284: cap previous_suggestions configurable (Réglages → Advanced → Mémoire anti-doublon) + règle anti-boucle. SAL-285: focus chat sur la dernière question + fenêtre compacte qui s'ajuste à la dernière interaction.</p>
             ]]></description>
-            <pubDate>Tue, 21 Apr 2026 14:45:13 +0200</pubDate>
+            <pubDate>Thu, 23 Apr 2026 20:59:06 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.97/SalesWhispererApp-Dev_v1.5.97_b1.5.97.dmg"
-                sparkle:version="1.5.97"
-                sparkle:shortVersionString="1.5.97"
-                sparkle:edSignature="G6IPCn6fzljlGkDqTAZqrSRvj/xrCYwoVmOUk+Za2csFxr4myM+BAPCQK8Ci2gc8NyODFfAh/vIl2e4IlzhwBA=="
-                length="51931946"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.5.99/SalesWhispererApp-Dev_v1.5.99_b1.5.99.dmg"
+                sparkle:version="1.5.99"
+                sparkle:shortVersionString="1.5.99"
+                sparkle:edSignature="AOjW6+Ru1pPfqgBwVWl3GpP/SglVxrdyoGxB7ai+TA6dtUxYEu/YCWupm076ULbaEb5eMzsmKYHHbq3/569ZAg=="
+                length="51927035"
                 type="application/octet-stream"
             />
         </item>
