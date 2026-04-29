@@ -6,19 +6,24 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.6.0</title>
+            <title>Version 1.6.1</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.6.0</h2>
-                <p>SAL-292 : Migration vers Anthropic Claude (Haiku 4.5 / Sonnet 4.5) — Deepgram seul pour STT</p>
+                <h2>Sales Whisperer 1.6.1 (DEV)</h2>
+                <ul>
+                    <li><strong>SAL-286</strong> — Fix : les erreurs de connexion à la transcription (Deepgram) sont désormais visibles via une alerte localisée FR/EN au lieu d'être silencieusement masquées (boutons Assist/Follow-up grisés sans explication). Concerne tous les plans, particulièrement visible en Free.</li>
+                    <li><strong>SAL-250</strong> — Polish : 2 strings hardcodées en français dans le message de limite IA (« Limite IA atteinte », « Requêtes IA aujourd'hui ») sont maintenant correctement localisées en anglais.</li>
+                    <li><strong>Follow-up questions</strong> — Affichage des sous-champs <em>But</em> et <em>Contexte</em> sur chaque question de suivi (auparavant générés mais jamais affichés).</li>
+                    <li><strong>DevTools</strong> — Système d'injection de fixtures pour tester l'IA sans appel réel : guards Supabase, en-tête X-Simulated, bouton Force-refresh du cache prompts, support des fixtures par framework de vente, sessions simulées entièrement utilisables (Assist/Follow-up activables).</li>
+                </ul>
             ]]></description>
-            <pubDate>Sun, 26 Apr 2026 11:15:00 +0200</pubDate>
+            <pubDate>Wed, 29 Apr 2026 18:45:17 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.6.0/SalesWhispererApp-Dev_v1.6.0_b1.6.0.dmg"
-                sparkle:version="1.6.0"
-                sparkle:shortVersionString="1.6.0"
-                sparkle:edSignature="0szCZuxNmrnCQ0geqMLtKw1++F5p/xFyb8UjakZ5/YO6xit0NTUspwGKlKYo2vDv4Lc5sv2thJXUF+K4Uc46Bw=="
-                length="51931150"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.6.1/SalesWhispererApp-Dev_v1.6.1_b1.6.1.dmg"
+                sparkle:version="1.6.1"
+                sparkle:shortVersionString="1.6.1"
+                sparkle:edSignature="w21xsG6saIkk65ZgueQP3/OBnyBpSh1DzUCxlNFCEM+6IrsYKC6yu4ay0KCKe4LOzhedlUUR9ca7CKTKSX/WDQ=="
+                length="52249582"
                 type="application/octet-stream"
             />
         </item>
