@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.0</title>
+            <title>Version 1.7.1</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.0</h2>
-                <p>Upgrade Prompt + UI/UX</p>
+                <h2>Sales Whisperer 1.7.1</h2>
+                <p>Bandeau DEV permanent ajouté sur les écrans de bienvenue et connexion. Version interne — ne pas distribuer.</p>
             ]]></description>
-            <pubDate>Mon, 04 May 2026 15:18:34 +0200</pubDate>
+            <pubDate>Tue, 05 May 2026 10:08:07 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.0/SalesWhispererApp-Dev_v1.7.0_b1.7.0.dmg"
-                sparkle:version="1.7.0"
-                sparkle:shortVersionString="1.7.0"
-                sparkle:edSignature="Pycdgwcfaxcbp3GWZ56/ky2f3fXNx8+/MJbBzyMlMVs30vRV5+CIm0WaqDU33fRGZMHr755cx+Fgzxdb9GVpCA=="
-                length="53514340"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.1/SalesWhispererApp-Dev_v1.7.1_b1.7.1.dmg"
+                sparkle:version="1.7.1"
+                sparkle:shortVersionString="1.7.1"
+                sparkle:edSignature="lawnDNBMyJwcionjOIIQvPvZ5whpUbrbXEbgMJLW7NAMpHeQCTaIc+P1TawEeMS5jA31OEJR9dUXgHCBVQVBAg=="
+                length="53835766"
                 type="application/octet-stream"
             />
         </item>
