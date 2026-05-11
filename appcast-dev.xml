@@ -5,89 +5,20 @@
         <link>https://raw.githubusercontent.com/SalesWhispererOrg/sales-whisperer-releases/main/appcast-dev.xml</link>
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
-
         <item>
-            <title>Version 1.7.5</title>
+            <title>Version 1.7.6</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.5</h2>
-                <p>SAL-303 — Bouton Assistance reformaté (Phrase à dire / But / Contexte) ; Question de suivi : 1 seule recommandation au lieu de 3 ; streaming de la réponse plus fluide (pré-réservation hauteur fenêtre, plus de saut visuel).</p>
+                <h2>Sales Whisperer 1.7.6</h2>
+                <p>Améliorations de l'overlay Live Insights — la fenêtre garde maintenant une taille stable et ne sautille plus à l'arrivée des suggestions. Les réponses Assistance et Questions de suivi adoptent un format visuel unifié et plus lisible. Possibilité de redimensionner manuellement la fenêtre par les bords pour consulter l'historique.</p>
             ]]></description>
-            <pubDate>Thu, 07 May 2026 15:22:19 +0200</pubDate>
+            <pubDate>Mon, 11 May 2026 14:15:03 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.5/SalesWhispererApp-Dev_v1.7.5_b1.7.5.dmg"
-                sparkle:version="1.7.5"
-                sparkle:shortVersionString="1.7.5"
-                sparkle:edSignature="NlHkGY/Ra6+nd06KLm/yWKm5dwHfQEqlRIQZMRfuNvNHcw9Aq3HSt9VxroWeXad7StH6px4D6Ne1ORrNAbhKCQ=="
-                length="53836366"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.7.4</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.7.4 (DEV)</h2>
-                <p><strong>Fix critique Sparkle — auto-update.</strong> La 1.7.3 ne pouvait pas s'auto-installer (erreur "An error occurred while launching the installer"). Cause : le script de signature propageait les entitlements de l'app principale (microphone, audio) sur les helpers Sparkle (Updater.app, Installer.xpc), ce qui empêchait Sparkle d'obtenir l'autorisation admin. La 1.7.4 corrige le pipeline de codesign et fixe aussi la version interne du bundle (était bloquée à 1.7.0 dans le pbxproj). Inclut tout ce qu'il y avait dans la 1.7.3 (X-Call-Id sur tous les appels LLM/audio). Version interne — ne pas distribuer.</p>
-            ]]></description>
-            <pubDate>Wed, 06 May 2026 13:05:00 +0200</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.4/SalesWhispererApp-Dev_v1.7.4_b1.7.4.dmg"
-                sparkle:version="1.7.4"
-                sparkle:shortVersionString="1.7.4"
-                sparkle:edSignature="ZwOVQQHcddyFVSsrNp+kOeYKomrym4wXPL3VJeli2o/2Ucl/2hYA8ATg2zbZ5qP1OMaOenyGC/BmKR3vJcaZCQ=="
-                length="53829824"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.7.3</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.7.3 (DEV)</h2>
-                <p><strong>SAL-298 — vrai fix coût LLM.</strong> La 1.7.2 ne stampait pas correctement le header <code>X-Call-Id</code> sur les appels Anthropic (le patch ne touchait pas le bon chemin de code). Cette version corrige ça en injectant l'en-tête au niveau de <code>LlmConfig.getHeaders()</code>, ce qui couvre <strong>tous</strong> les sites (assist, follow_up, analysis, scoring, résumés). Le dashboard affiche désormais le coût réel des calls. Version interne — ne pas distribuer.</p>
-            ]]></description>
-            <pubDate>Wed, 06 May 2026 12:30:00 +0200</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.3/SalesWhispererApp-Dev_v1.7.3_b1.7.3.dmg"
-                sparkle:version="1.7.3"
-                sparkle:shortVersionString="1.7.3"
-                sparkle:edSignature="U2lYd2vXWEIMKQF9B5TGFr3/q5iWjyajvl+p3j4KZGf29igVvDxLZsSfjcbAMIEczjlJSZMrYpT8sFhJO3soBQ=="
-                length="53833743"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.7.2</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.7.2 (DEV)</h2>
-                <p><strong>SAL-298 — fix coût LLM/audio.</strong> Chaque appel LLM (Anthropic) et chaque heartbeat Deepgram envoie maintenant le <code>call_id</code> via le header <code>X-Call-Id</code>, ce qui lie correctement les events à leur call et permet au dashboard d'afficher le coût réel (au lieu du fallback approximatif). Version interne — ne pas distribuer.</p>
-            ]]></description>
-            <pubDate>Tue, 05 May 2026 19:42:00 +0200</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.2/SalesWhispererApp-Dev_v1.7.2_b1.7.2.dmg"
-                sparkle:version="1.7.2"
-                sparkle:shortVersionString="1.7.2"
-                sparkle:edSignature="EdCdmla7lZd6oJyTYD6mGoQB+JxhuFLIrUgdrOjMH+SHySxyWDhAfSTxMHYOAHLdueRyGBjvj92/ZbuxcaegDw=="
-                length="53826981"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.7.1</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.7.1</h2>
-                <p>Bandeau DEV permanent ajouté sur les écrans de bienvenue et connexion. Version interne — ne pas distribuer.</p>
-            ]]></description>
-            <pubDate>Tue, 05 May 2026 10:08:07 +0200</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.1/SalesWhispererApp-Dev_v1.7.1_b1.7.1.dmg"
-                sparkle:version="1.7.1"
-                sparkle:shortVersionString="1.7.1"
-                sparkle:edSignature="lawnDNBMyJwcionjOIIQvPvZ5whpUbrbXEbgMJLW7NAMpHeQCTaIc+P1TawEeMS5jA31OEJR9dUXgHCBVQVBAg=="
-                length="53835766"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.6/SalesWhispererApp-Dev_v1.7.6_b1.7.6.dmg"
+                sparkle:version="1.7.6"
+                sparkle:shortVersionString="1.7.6"
+                sparkle:edSignature="X8RVUPHs3f9nMT+5z9o3RJNaCeRVbT92tMsHE70ux+k0oQKO8PyZfpkyL98wlud012d47V1mAgOlGY3XU/lQBA=="
+                length="53848457"
                 type="application/octet-stream"
             />
         </item>
