@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.6</title>
+            <title>Version 1.7.7</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.6</h2>
-                <p>Améliorations de l'overlay Live Insights — la fenêtre garde maintenant une taille stable et ne sautille plus à l'arrivée des suggestions. Les réponses Assistance et Questions de suivi adoptent un format visuel unifié et plus lisible. Possibilité de redimensionner manuellement la fenêtre par les bords pour consulter l'historique.</p>
+                <h2>Sales Whisperer 1.7.7</h2>
+                <p>Transcription instantanée pendant que vous parlez. Plus quelques améliorations côté tableau de bord web.</p>
             ]]></description>
-            <pubDate>Mon, 11 May 2026 14:15:03 +0200</pubDate>
+            <pubDate>Fri, 15 May 2026 09:53:51 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.6/SalesWhispererApp-Dev_v1.7.6_b1.7.6.dmg"
-                sparkle:version="1.7.6"
-                sparkle:shortVersionString="1.7.6"
-                sparkle:edSignature="X8RVUPHs3f9nMT+5z9o3RJNaCeRVbT92tMsHE70ux+k0oQKO8PyZfpkyL98wlud012d47V1mAgOlGY3XU/lQBA=="
-                length="53848457"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.7/SalesWhispererApp-Dev_v1.7.7_b1.7.7.dmg"
+                sparkle:version="1.7.7"
+                sparkle:shortVersionString="1.7.7"
+                sparkle:edSignature="eWlpV0cQQRxeBYV5+b7MoP7Is5Bak+Akpxlj87DFjpjuAdXIeewGF4WAz6dROTdPaooHNlkYAUuTTPSlR4FHDw=="
+                length="53861004"
                 type="application/octet-stream"
             />
         </item>
