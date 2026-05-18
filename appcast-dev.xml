@@ -6,19 +6,25 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.7</title>
+            <title>Version 1.7.8</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.7</h2>
-                <p>Transcription instantanée pendant que vous parlez. Plus quelques améliorations côté tableau de bord web.</p>
+                <h2>Sales Whisperer 1.7.8 (DEV)</h2>
+                <ul>
+                    <li><b>Coaching personnalisé</b> : la fenêtre de résumé inclut maintenant un coaching contextualisé sur tes derniers appels (observation, action recommandée, forces, axes d'amélioration).</li>
+                    <li><b>Fenêtre d'analyse repensée</b> : orb animé, carousel de stats live (mots, ratio prospect/rep, questions, durée…), tips de vente entre deux passes, progress bar de bout en bout — fini la fenêtre statique.</li>
+                    <li><b>Lisibilité</b> : fenêtre d'analyse et fenêtre de résumé élargies pour éviter le wrap des tips et le scroll inutile.</li>
+                    <li><b>Branding</b> : la phase LLM affiche désormais "Analyse de la conversation par SalesWhisperer Engine…".</li>
+                    <li><b>Sous le capot (DevTools)</b> : nouvelle Fixture Summary Sheet pour itérer sur les prompts d'analyse + extension complète de l'orchestrator (judge / rewriter / producer Sonnet) aux prompts <code>call_analysis_*</code>.</li>
+                </ul>
             ]]></description>
-            <pubDate>Fri, 15 May 2026 09:53:51 +0200</pubDate>
+            <pubDate>Mon, 18 May 2026 10:14:51 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.7/SalesWhispererApp-Dev_v1.7.7_b1.7.7.dmg"
-                sparkle:version="1.7.7"
-                sparkle:shortVersionString="1.7.7"
-                sparkle:edSignature="eWlpV0cQQRxeBYV5+b7MoP7Is5Bak+Akpxlj87DFjpjuAdXIeewGF4WAz6dROTdPaooHNlkYAUuTTPSlR4FHDw=="
-                length="53861004"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.8/SalesWhispererApp-Dev_v1.7.8_b1.7.8.dmg"
+                sparkle:version="1.7.8"
+                sparkle:shortVersionString="1.7.8"
+                sparkle:edSignature="fQmuW/r0i9LnUgtHiCa0KEIOGhihjMcPnkvskIL5CLJZnYtNXzejlYRH7CIX89xJfTLgul5nL6uUyO+iGf3TCA=="
+                length="54316098"
                 type="application/octet-stream"
             />
         </item>
