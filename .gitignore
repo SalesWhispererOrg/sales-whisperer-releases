@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# SalesWhisperer Virtual Tech Company (symlinks locaux vers ../saleswhisperer-cursor/)
+# Réinstaller via : ../saleswhisperer-cursor/scripts/install.sh
+/.cursor/rules/00-orchestrator.mdc
+/.cursor/rules/agents
+/.cursor/saleswhisperer

@@ -6,6 +6,46 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
+            <title>Version 1.7.9</title>
+            <description><![CDATA[
+                <h2>Sales Whisperer 1.7.9</h2>
+                <p><strong>Mise à jour majeure</strong> — première version prod après alignement complet avec develop.</p>
+                <h3>🎯 Nouveau moteur IA</h3>
+                <ul>
+                    <li><strong>Claude 4.5 Sonnet + Haiku (Anthropic)</strong> remplace OpenAI pour assistance, analyse et scoring</li>
+                    <li><strong>Voyage embeddings</strong> pour la base de connaissances (RAG pgvector)</li>
+                </ul>
+                <h3>🏆 Nouvelles features</h3>
+                <ul>
+                    <li>Lead Score Cards avec auto-update depuis vos appels</li>
+                    <li>Coaching personnalisé avec historique et sparkline</li>
+                    <li>Brouillon d'email de suivi auto-généré</li>
+                    <li>Régénération du résumé d'appel à la demande</li>
+                    <li>Prompts bilingues FR/EN natifs</li>
+                </ul>
+                <h3>🎨 UX</h3>
+                <ul>
+                    <li>Refonte fenêtres d'analyse et de résumé</li>
+                    <li>Rendu Markdown dans les résumés</li>
+                </ul>
+                <h3>🔧 Corrections</h3>
+                <ul>
+                    <li>Webhook Stripe stabilisé</li>
+                    <li>Durcissement sécurité du bundle prod</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 25 May 2026 12:55:00 +0200</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.9/SalesWhispererApp_v1.7.9.dmg"
+                sparkle:version="1.7.9"
+                sparkle:shortVersionString="1.7.9"
+                sparkle:edSignature="PF72pp2isz4VJ1069Z3P5kbKeRI2DUnAZo+6UU8czC48i2UWef3tDZvoQdAd5ophsXAKory2CLwd9RPMqiC9BQ=="
+                length="53895660"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 1.5.79</title>
             <description><![CDATA[
                 <h2>Sales Whisperer 1.5.79</h2>
