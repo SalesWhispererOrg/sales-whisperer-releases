@@ -6,59 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.9</title>
+            <title>Version 1.7.10</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.9</h2>
-                <p><strong>Mise à jour majeure</strong> — première version prod après alignement complet avec develop.</p>
-                <h3>🎯 Nouveau moteur IA</h3>
-                <ul>
-                    <li><strong>Claude 4.5 Sonnet + Haiku (Anthropic)</strong> remplace OpenAI pour assistance, analyse et scoring</li>
-                    <li><strong>Voyage embeddings</strong> pour la base de connaissances (RAG pgvector)</li>
-                </ul>
-                <h3>🏆 Nouvelles features</h3>
-                <ul>
-                    <li>Lead Score Cards avec auto-update depuis vos appels</li>
-                    <li>Coaching personnalisé avec historique et sparkline</li>
-                    <li>Brouillon d'email de suivi auto-généré</li>
-                    <li>Régénération du résumé d'appel à la demande</li>
-                    <li>Prompts bilingues FR/EN natifs</li>
-                </ul>
-                <h3>🎨 UX</h3>
-                <ul>
-                    <li>Refonte fenêtres d'analyse et de résumé</li>
-                    <li>Rendu Markdown dans les résumés</li>
-                </ul>
-                <h3>🔧 Corrections</h3>
-                <ul>
-                    <li>Webhook Stripe stabilisé</li>
-                    <li>Durcissement sécurité du bundle prod</li>
-                </ul>
+                <h2>Sales Whisperer 1.7.10</h2>
+                <p>Améliorations diverses et corrections mineures.</p>
             ]]></description>
-            <pubDate>Mon, 25 May 2026 12:55:00 +0200</pubDate>
+            <pubDate>Thu, 28 May 2026 11:38:33 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.9/SalesWhispererApp_v1.7.9.dmg"
-                sparkle:version="1.7.9"
-                sparkle:shortVersionString="1.7.9"
-                sparkle:edSignature="PF72pp2isz4VJ1069Z3P5kbKeRI2DUnAZo+6UU8czC48i2UWef3tDZvoQdAd5ophsXAKory2CLwd9RPMqiC9BQ=="
-                length="53895660"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.5.79</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.5.79</h2>
-                <p>Per-call language selector: choose French or English before each call. Deepgram STT and AI responses follow your choice. Full overlay UI localization fixes.</p>
-            ]]></description>
-            <pubDate>Wed, 15 Apr 2026 22:20:42 +0200</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.5.79/SalesWhispererApp_v1.5.79.dmg"
-                sparkle:version="1.5.79"
-                sparkle:shortVersionString="1.5.79"
-                sparkle:edSignature="zyVFVlwPuLL2zpEe7KFM4kvGHdxBUkGgpfPrgEs8CXzm8+lj1x0082hAko5T1mXQAkbMn98nUdsYNPnPwVl5DA=="
-                length="51123954"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.10/SalesWhispererApp_v1.7.10_b1.7.10.dmg"
+                sparkle:version="1.7.10"
+                sparkle:shortVersionString="1.7.10"
+                sparkle:edSignature="bf7r56s3NTP0yrYevvSTnGASIlaztv9TDVc3YDa9v4DZAFB9rY4+6iipLRuWX7Mg53fDX64YphNcfrbbi+zMDA=="
+                length="53895726"
                 type="application/octet-stream"
             />
         </item>
