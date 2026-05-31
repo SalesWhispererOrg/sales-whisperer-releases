@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.12</title>
+            <title>Version 1.7.13</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.12</h2>
-                <p>Connexion simplifiée au dashboard et corrections de compatibilité.</p>
+                <h2>Sales Whisperer 1.7.13</h2>
+                <p>Fix session expirée : message clair au lieu de token Deepgram si JWT invalide.</p>
             ]]></description>
-            <pubDate>Sun, 31 May 2026 21:49:21 +0200</pubDate>
+            <pubDate>Sun, 31 May 2026 23:53:21 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.12/SalesWhispererApp_v1.7.12_b1.7.12.dmg"
-                sparkle:version="1.7.12"
-                sparkle:shortVersionString="1.7.12"
-                sparkle:edSignature="84/U0X1OohOxtE/fTtirF1pEVqJbIU4W7vprpX0qeH7a0GFgQ/kSSwzjUpRB1LWMGMpn9IMpzI2mIjtzeqbWBA=="
-                length="53893082"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.13/SalesWhispererApp_v1.7.13_b1.7.13.dmg"
+                sparkle:version="1.7.13"
+                sparkle:shortVersionString="1.7.13"
+                sparkle:edSignature="IOSc9C1vXCiBKbhGMDN+LUhzhPxwS994c0iLClaalWdjKBQgyU47LKvfSAFvxTMs6xXqFVbVQeBmG5lJMqodDA=="
+                length="53897320"
                 type="application/octet-stream"
             />
         </item>
