@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.11</title>
+            <title>Version 1.7.12</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.11</h2>
-                <p>Améliorations de fluidité : transcription temps réel et compteur d'appel mis à jour en continu.</p>
+                <h2>Sales Whisperer 1.7.12</h2>
+                <p>Connexion simplifiée au dashboard et corrections de compatibilité.</p>
             ]]></description>
-            <pubDate>Thu, 28 May 2026 12:02:09 +0200</pubDate>
+            <pubDate>Sun, 31 May 2026 21:49:21 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.11/SalesWhispererApp_v1.7.11_b1.7.11.dmg"
-                sparkle:version="1.7.11"
-                sparkle:shortVersionString="1.7.11"
-                sparkle:edSignature="hOYzMwv/auAsS/gWTxYPV+TKvR3DTtB1r6a86e2krO4+mejmijjM+tNBlNKwCwjfG/9meG2XaQwmFmEPdiZ0AA=="
-                length="53893753"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.12/SalesWhispererApp_v1.7.12_b1.7.12.dmg"
+                sparkle:version="1.7.12"
+                sparkle:shortVersionString="1.7.12"
+                sparkle:edSignature="84/U0X1OohOxtE/fTtirF1pEVqJbIU4W7vprpX0qeH7a0GFgQ/kSSwzjUpRB1LWMGMpn9IMpzI2mIjtzeqbWBA=="
+                length="53893082"
                 type="application/octet-stream"
             />
         </item>
