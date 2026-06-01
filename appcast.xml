@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.14</title>
+            <title>Version 1.7.15</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.14</h2>
-                <p>Fix badge plan Gratuit→Performance : FeatureGate ne downgrade plus sur session JWT expirée.</p>
+                <h2>Sales Whisperer 1.7.15</h2>
+                <p>Le bouton « Lancer l'Assistant » du dashboard ouvre désormais la bonne app.</p>
             ]]></description>
-            <pubDate>Mon, 01 Jun 2026 09:43:51 +0200</pubDate>
+            <pubDate>Mon, 01 Jun 2026 11:39:25 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.14/SalesWhispererApp_v1.7.14_b1.7.14.dmg"
-                sparkle:version="1.7.14"
-                sparkle:shortVersionString="1.7.14"
-                sparkle:edSignature="ebXRbwW0QpiO7bbFdCZUpM30rigMRCX1GI1g+HGQ+Floms8b6gQVAHiDDZER39VMDS7FEiW8FZwI9WctLnXTCg=="
-                length="53898771"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.15/SalesWhispererApp_v1.7.15_b1.7.15.dmg"
+                sparkle:version="1.7.15"
+                sparkle:shortVersionString="1.7.15"
+                sparkle:edSignature="0/dp3iqcFufsRXjH3GpJPZGsmQTqDnzPjnwDbPkJ3bcJsnKVAPJ9jEdKYJ45W9Mey/z6/M+hVHAA81h85HZJDQ=="
+                length="53898759"
                 type="application/octet-stream"
             />
         </item>
