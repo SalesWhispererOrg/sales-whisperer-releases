@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.13</title>
+            <title>Version 1.7.14</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.13</h2>
-                <p>Fix session expirée : message clair au lieu de token Deepgram si JWT invalide.</p>
+                <h2>Sales Whisperer 1.7.14</h2>
+                <p>Fix badge plan Gratuit→Performance : FeatureGate ne downgrade plus sur session JWT expirée.</p>
             ]]></description>
-            <pubDate>Sun, 31 May 2026 23:53:21 +0200</pubDate>
+            <pubDate>Mon, 01 Jun 2026 09:43:51 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.13/SalesWhispererApp_v1.7.13_b1.7.13.dmg"
-                sparkle:version="1.7.13"
-                sparkle:shortVersionString="1.7.13"
-                sparkle:edSignature="IOSc9C1vXCiBKbhGMDN+LUhzhPxwS994c0iLClaalWdjKBQgyU47LKvfSAFvxTMs6xXqFVbVQeBmG5lJMqodDA=="
-                length="53897320"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.14/SalesWhispererApp_v1.7.14_b1.7.14.dmg"
+                sparkle:version="1.7.14"
+                sparkle:shortVersionString="1.7.14"
+                sparkle:edSignature="ebXRbwW0QpiO7bbFdCZUpM30rigMRCX1GI1g+HGQ+Floms8b6gQVAHiDDZER39VMDS7FEiW8FZwI9WctLnXTCg=="
+                length="53898771"
                 type="application/octet-stream"
             />
         </item>
