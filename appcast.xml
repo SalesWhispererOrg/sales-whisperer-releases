@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.20</title>
+            <title>Version 1.7.21</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.20</h2>
-                <p>Connexion réussie : retour haptique + halo bleu autour de la barre.</p>
+                <h2>Sales Whisperer 1.7.21</h2>
+                <p>Connexion : bordure rotative (même effet qu'un appel) au lieu du grand halo.</p>
             ]]></description>
-            <pubDate>Mon, 01 Jun 2026 16:43:24 +0200</pubDate>
+            <pubDate>Mon, 01 Jun 2026 18:13:47 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.20/SalesWhispererApp_v1.7.20_b1.7.20.dmg"
-                sparkle:version="1.7.20"
-                sparkle:shortVersionString="1.7.20"
-                sparkle:edSignature="b1ZcHmwcHVgx0ZE6Pw9q5LSgXUDc54YTLPx7WIVVe8KVwvdMLyNIq3e+mwwFV59pmarc/AgphgJ+KT90CEQRAg=="
-                length="53882586"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.21/SalesWhispererApp_v1.7.21_b1.7.21.dmg"
+                sparkle:version="1.7.21"
+                sparkle:shortVersionString="1.7.21"
+                sparkle:edSignature="l6MZga1I153E2zMKFfudXGLoHuLPaRsiMJxTCszwri/q5dj1Sawqm+6ofzXhlNsgIJr+eBaUPGRwzvSydUKIAA=="
+                length="53884064"
                 type="application/octet-stream"
             />
         </item>
