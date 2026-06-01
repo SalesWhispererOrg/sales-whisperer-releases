@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.16</title>
+            <title>Version 1.7.17</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.16</h2>
-                <p>Correctif connexion Google : réception fiable du callback OAuth (la connexion restait parfois bloquée sur certaines machines).</p>
+                <h2>Sales Whisperer 1.7.17</h2>
+                <p>Connexion Google : retour direct vers l'app via schéma URL (plus de serveur localhost).</p>
             ]]></description>
-            <pubDate>Mon, 01 Jun 2026 12:02:50 +0200</pubDate>
+            <pubDate>Mon, 01 Jun 2026 15:59:45 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.16/SalesWhispererApp-Dev_v1.7.16_b1.7.16.dmg"
-                sparkle:version="1.7.16"
-                sparkle:shortVersionString="1.7.16"
-                sparkle:edSignature="Y7mURaKg/v/fbNZNJPf5/hYPmyBrIhTFDaF0EQrJTrDh+/EKGX9S0nQTIrudkI57olpQdznTVVcsNz34NEZjAQ=="
-                length="54333520"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.17/SalesWhispererApp-Dev_v1.7.17_b1.7.17.dmg"
+                sparkle:version="1.7.17"
+                sparkle:shortVersionString="1.7.17"
+                sparkle:edSignature="rr9Wq/BVYGFkSq6myoaP4Dq/G3P9rfVcfJHfB4J0gQg0A+OKKYGSN71+DlT2Jf+vKbTshL1nBGb4YjM3TEStCw=="
+                length="54281677"
                 type="application/octet-stream"
             />
         </item>
