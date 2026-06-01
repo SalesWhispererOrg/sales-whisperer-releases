@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.21</title>
+            <title>Version 1.7.22</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.21</h2>
-                <p>Connexion : bordure rotative (même effet qu'un appel) au lieu du grand halo.</p>
+                <h2>Sales Whisperer 1.7.22</h2>
+                <p>Connexion Google PROD : flux OAuth implicit, journal oauth-debug.log, fenêtre de présentation OAuth fiable.</p>
             ]]></description>
-            <pubDate>Mon, 01 Jun 2026 18:13:47 +0200</pubDate>
+            <pubDate>Mon, 01 Jun 2026 18:54:53 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.21/SalesWhispererApp_v1.7.21_b1.7.21.dmg"
-                sparkle:version="1.7.21"
-                sparkle:shortVersionString="1.7.21"
-                sparkle:edSignature="l6MZga1I153E2zMKFfudXGLoHuLPaRsiMJxTCszwri/q5dj1Sawqm+6ofzXhlNsgIJr+eBaUPGRwzvSydUKIAA=="
-                length="53884064"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.22/SalesWhispererApp_v1.7.22_b1.7.22.dmg"
+                sparkle:version="1.7.22"
+                sparkle:shortVersionString="1.7.22"
+                sparkle:edSignature="BdhU2wO2ZB4kDbfA2vCmeBiAx7kqivpPEbsPQdUt1+RhVjPvMS4gI806fZyIdy3JbJpn5klhiWzx5tzrLxCVCA=="
+                length="53889879"
                 type="application/octet-stream"
             />
         </item>
