@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.22</title>
+            <title>Version 1.7.23</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.22</h2>
-                <p>Connexion Google PROD : flux OAuth implicit, journal oauth-debug.log, fenêtre de présentation OAuth fiable.</p>
+                <h2>Sales Whisperer 1.7.23</h2>
+                <p>Connexion Google : la barre et l'écran de login se mettent à jour après OAuth (fix UI déconnectée).</p>
             ]]></description>
-            <pubDate>Mon, 01 Jun 2026 18:54:53 +0200</pubDate>
+            <pubDate>Mon, 01 Jun 2026 19:25:37 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.22/SalesWhispererApp_v1.7.22_b1.7.22.dmg"
-                sparkle:version="1.7.22"
-                sparkle:shortVersionString="1.7.22"
-                sparkle:edSignature="BdhU2wO2ZB4kDbfA2vCmeBiAx7kqivpPEbsPQdUt1+RhVjPvMS4gI806fZyIdy3JbJpn5klhiWzx5tzrLxCVCA=="
-                length="53889879"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.23/SalesWhispererApp_v1.7.23_b1.7.23.dmg"
+                sparkle:version="1.7.23"
+                sparkle:shortVersionString="1.7.23"
+                sparkle:edSignature="D6Oknz66WX5bWrAoUNoH0+iv6GewK1NKxGpKHn5VRSS52SKzz/oI0fkD8wu6X0WvZQnMU8XjxJiATRJYUjKdCQ=="
+                length="53881993"
                 type="application/octet-stream"
             />
         </item>
