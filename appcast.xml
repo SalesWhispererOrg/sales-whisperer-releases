@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.23</title>
+            <title>Version 1.7.24</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.23</h2>
-                <p>Connexion Google : la barre et l'écran de login se mettent à jour après OAuth (fix UI déconnectée).</p>
+                <h2>Sales Whisperer 1.7.24</h2>
+                <p>Fix connexion Ugo : fermeture login après Google même si session Keychain déjà active ; lancement barre si session en Keychain.</p>
             ]]></description>
-            <pubDate>Mon, 01 Jun 2026 19:25:37 +0200</pubDate>
+            <pubDate>Tue, 02 Jun 2026 18:10:12 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.23/SalesWhispererApp_v1.7.23_b1.7.23.dmg"
-                sparkle:version="1.7.23"
-                sparkle:shortVersionString="1.7.23"
-                sparkle:edSignature="D6Oknz66WX5bWrAoUNoH0+iv6GewK1NKxGpKHn5VRSS52SKzz/oI0fkD8wu6X0WvZQnMU8XjxJiATRJYUjKdCQ=="
-                length="53881993"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.24/SalesWhispererApp_v1.7.24_b1.7.24.dmg"
+                sparkle:version="1.7.24"
+                sparkle:shortVersionString="1.7.24"
+                sparkle:edSignature="SOw6Zfs/cNOMxRnbmuhodd1B1/WYTMsJbGIgknnL4DPQ/NkZ1JUpo64HTOOSbPTcE0DvwqxsQKqUVU3aqzEOAg=="
+                length="53880420"
                 type="application/octet-stream"
             />
         </item>
