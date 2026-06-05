@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.24</title>
+            <title>Version 1.7.25</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.24</h2>
-                <p>Fix connexion Ugo : fermeture login après Google même si session Keychain déjà active ; lancement barre si session en Keychain.</p>
+                <h2>Sales Whisperer 1.7.25</h2>
+                <p>SAL-369: session OAuth préservée après login Google (fix session stale Keychain). SAL-370: reset password → dashboard /reset-password. Inclut fixes OAuth UI v1.7.22–24.</p>
             ]]></description>
-            <pubDate>Tue, 02 Jun 2026 18:10:12 +0200</pubDate>
+            <pubDate>Fri, 05 Jun 2026 21:20:08 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.24/SalesWhispererApp_v1.7.24_b1.7.24.dmg"
-                sparkle:version="1.7.24"
-                sparkle:shortVersionString="1.7.24"
-                sparkle:edSignature="SOw6Zfs/cNOMxRnbmuhodd1B1/WYTMsJbGIgknnL4DPQ/NkZ1JUpo64HTOOSbPTcE0DvwqxsQKqUVU3aqzEOAg=="
-                length="53880420"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.25/SalesWhispererApp_v1.7.25_b1.7.25.dmg"
+                sparkle:version="1.7.25"
+                sparkle:shortVersionString="1.7.25"
+                sparkle:edSignature="LD3KCoMb4e9venOixmZUh27crGgygn4BFFy1BMg91N4KO2qmRknMqdBxbjv7zoogF7+iU+wrgLZBWOwo8YW5DA=="
+                length="53887982"
                 type="application/octet-stream"
             />
         </item>
