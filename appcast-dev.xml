@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.24</title>
+            <title>Version 1.7.25</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.24</h2>
-                <p>Fix OAuth session fantôme + UI login (DEV).</p>
+                <h2>Sales Whisperer 1.7.25</h2>
+                <p>SAL-369: session OAuth préservée après login Google (fix drop session stale). SAL-370: lien reset password macOS → dashboard /reset-password. Sync Info.plist 1.7.25.</p>
             ]]></description>
-            <pubDate>Tue, 02 Jun 2026 18:10:12 +0200</pubDate>
+            <pubDate>Fri, 05 Jun 2026 20:57:52 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.24/SalesWhispererApp-Dev_v1.7.24_b1.7.24.dmg"
-                sparkle:version="1.7.24"
-                sparkle:shortVersionString="1.7.24"
-                sparkle:edSignature="dLsE06GqDugij3Lni0fJDlYfd3leUPHq1cSaQet+VR3FjGTa4kPF/yPwkW8ihiXM5w+rV/X6v1o2SbSCSH7EDw=="
-                length="54318022"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.25/SalesWhispererApp-Dev_v1.7.25_b1.7.25.dmg"
+                sparkle:version="1.7.25"
+                sparkle:shortVersionString="1.7.25"
+                sparkle:edSignature="pUxERjE3y+koNTYuANaZdSn0TmUrxv5rx6YinUTiMECaOayV6kDLx0DEWldFuewq4ixWUhNfQLf2PfW7uB5gBQ=="
+                length="54327062"
                 type="application/octet-stream"
             />
         </item>
