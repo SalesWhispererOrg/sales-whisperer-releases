@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.26</title>
+            <title>Version 1.7.27</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.26</h2>
-                <p>v1.7.26 rebuild — sync Info.plist + appcasts. SAL-369 OAuth session + SAL-370 reset password (inchangé vs 1.7.25).</p>
+                <h2>Sales Whisperer 1.7.27</h2>
+                <p>SAL-369 — la session ne saute plus après login Google (refresh découplé de clearSession)</p>
             ]]></description>
-            <pubDate>Sat, 06 Jun 2026 09:41:41 +0200</pubDate>
+            <pubDate>Sat, 06 Jun 2026 15:10:13 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.26/SalesWhispererApp-Dev_v1.7.26_b1.7.26.dmg"
-                sparkle:version="1.7.26"
-                sparkle:shortVersionString="1.7.26"
-                sparkle:edSignature="UaRledV9ejTZkS9Sof2nmDWTVOZy/dBCbGblsyo2XYSa8fEPJHqByG3LwSFrIkbtq8+Lm2/Fuax/p5SvaU6NCQ=="
-                length="54325798"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.27/SalesWhispererApp-Dev_v1.7.27_b1.7.27.dmg"
+                sparkle:version="1.7.27"
+                sparkle:shortVersionString="1.7.27"
+                sparkle:edSignature="SZ7lLORU+8Qolr2xtYl2xc7whWyHnG27D3iSrM9gltduXTzfq8RUwOpF1w76Raih1RkT/P31xCvX6NjRLpQlCw=="
+                length="54326551"
                 type="application/octet-stream"
             />
         </item>
