@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.28</title>
+            <title>Version 1.7.29</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.28</h2>
-                <p>SAL-369 — fix Session expirée au démarrage d'appel (expiresAt fiable)</p>
+                <h2>Sales Whisperer 1.7.29</h2>
+                <p>SAL-369 — session en mémoire + keychain robuste (fin des 400 refresh)</p>
             ]]></description>
-            <pubDate>Sat, 06 Jun 2026 15:35:31 +0200</pubDate>
+            <pubDate>Sat, 06 Jun 2026 15:57:19 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.28/SalesWhispererApp-Dev_v1.7.28_b1.7.28.dmg"
-                sparkle:version="1.7.28"
-                sparkle:shortVersionString="1.7.28"
-                sparkle:edSignature="e3UdYuoWm2VcJr52hrc079/AdIq7V3cbM71Q5tDZuIes7i5yP3GbhEVDdv71Z+iykg1EeKb4MH6991lz7YEUDg=="
-                length="54332262"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.29/SalesWhispererApp-Dev_v1.7.29_b1.7.29.dmg"
+                sparkle:version="1.7.29"
+                sparkle:shortVersionString="1.7.29"
+                sparkle:edSignature="VdIb/QV/SRY1dnNbst3/rcOsdNq9KwnjcKgXWibjQPZkEicdP8Ue1z8KHf1jKtyzxQ9dZOlH3OQTqG2vJdL4Cw=="
+                length="54337794"
                 type="application/octet-stream"
             />
         </item>
