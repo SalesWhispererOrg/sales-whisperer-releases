@@ -6,19 +6,21 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.31</title>
+            <title>Version 1.7.32</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.31</h2>
-                <p>SAL-382 — fiabilisation de la sauvegarde des appels (refresh token, retries, persistance locale zéro-perte hors-ligne). SAL-372 — lien tutoriel vers la vidéo démo. SAL-365 — build DEV réservé aux comptes admin.</p>
+                <h2>Sales Whisperer 1.7.32</h2>
+                <p>• Résumé d'appel IA désormais disponible dès le plan Pro (le coaching et le scoring restent réservés à Performance).
+• Correction du lien du tutoriel vidéo dans le menu de l'app (pointe enfin vers la vidéo YouTube).
+• Améliorations de fiabilité.</p>
             ]]></description>
-            <pubDate>Mon, 08 Jun 2026 22:27:49 +0200</pubDate>
+            <pubDate>Tue, 09 Jun 2026 19:47:52 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.31/SalesWhispererApp-Dev_v1.7.31_b1.7.31.dmg"
-                sparkle:version="1.7.31"
-                sparkle:shortVersionString="1.7.31"
-                sparkle:edSignature="+Obki+/xX+p0YWG0FPqr7h0KXBgAsz5BmSJ5KVpE/YbM2aazoGXwtHnOLJuJcysl0CLR5tq+jxwYhEwJF+SzBw=="
-                length="54416011"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.32/SalesWhispererApp-Dev_v1.7.32_b1.7.32.dmg"
+                sparkle:version="1.7.32"
+                sparkle:shortVersionString="1.7.32"
+                sparkle:edSignature="sXtEWVCNBocP7ohdoXzCoLvZh22ehtBEN7APuVCuYPJ1KOriNuDAodL/6X3wqxVHd57Rx0I2xrsllinn78/pAQ=="
+                length="54417802"
                 type="application/octet-stream"
             />
         </item>
