@@ -6,19 +6,22 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.31</title>
+            <title>Version 1.7.33</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.31</h2>
-                <p>SAL-382 — fiabilisation de la sauvegarde des appels (rafraîchissement du jeton, nouvelles tentatives bornées, persistance locale zéro-perte en cas de coupure réseau). SAL-372 — le bouton « Voir le tutoriel » ouvre la vidéo de démonstration.</p>
+                <h2>Sales Whisperer 1.7.33</h2>
+                <p>• Correctif majeur des appels longs : sur les appels de plus de ~40 min, les boutons Stop / Assistance / Questions de suivi restent disponibles et l'appel est toujours enregistré (plus de perte d'appel ni de résumé).
+• Filet de sécurité : l'appel en cours est sauvegardé même en cas de fermeture de l'app ou de mise en veille.
+• Résumé d'appel IA désormais disponible dès le plan Pro.
+• Correction du lien du tutoriel vidéo dans le menu de l'app.</p>
             ]]></description>
-            <pubDate>Mon, 08 Jun 2026 22:32:54 +0200</pubDate>
+            <pubDate>Wed, 10 Jun 2026 13:47:10 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.31/SalesWhispererApp_v1.7.31_b1.7.31.dmg"
-                sparkle:version="1.7.31"
-                sparkle:shortVersionString="1.7.31"
-                sparkle:edSignature="ymu0fcrWg8cdM3SqtCXhFyIZXXb66Dy6J3kMuKoBwamd1jpV5ly9TwZsiWBwXW/Os45OzC5IUfsUAo72jZmEAg=="
-                length="53956629"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.33/SalesWhispererApp_v1.7.33_b1.7.33.dmg"
+                sparkle:version="1.7.33"
+                sparkle:shortVersionString="1.7.33"
+                sparkle:edSignature="oYqa9bX8q9M7sPuex7m0idgE8SP2XayHh83q8Rx3SMI/1jyJ87kxFty9UGcPebX81aJoatj1y8sWtwgHya4QBQ=="
+                length="53965201"
                 type="application/octet-stream"
             />
         </item>
