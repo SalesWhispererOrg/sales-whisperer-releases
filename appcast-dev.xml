@@ -6,22 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.33</title>
+            <title>Version 1.7.34</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.33</h2>
-                <p>• Correctif majeur appels longs : les boutons Stop / Assistance / Questions de suivi ne disparaissent plus si la capture d'écran est coupée par macOS (~40 min). Tu peux toujours arrêter et sauvegarder l'appel.
-• Reprise automatique de la capture en cas de coupure transitoire.
-• Filet de sécurité : l'appel en cours est sauvegardé même si l'app se ferme ou la machine se met en veille.
-• Connexion de transcription plus stable sur les longs appels.</p>
+                <h2>Sales Whisperer 1.7.34</h2>
+                <p>Capture des suggestions IA pendant l'appel (SAL-401) : les questions/réponses proposées par l'assistant sont désormais enregistrées et consultables a posteriori dans le détail de l'appel (onglet Suggestions IA).</p>
             ]]></description>
-            <pubDate>Tue, 09 Jun 2026 21:32:54 +0200</pubDate>
+            <pubDate>Wed, 10 Jun 2026 16:48:11 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.33/SalesWhispererApp-Dev_v1.7.33_b1.7.33.dmg"
-                sparkle:version="1.7.33"
-                sparkle:shortVersionString="1.7.33"
-                sparkle:edSignature="GwN8E/8ajNs+h0BR5RchkgfXTCWa/QPDFyFK4mpPNq9UFAjrTI5HFYpSaGTxE1q4KyLkVBrUUOCATmN+3dwnBA=="
-                length="54425369"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.34/SalesWhispererApp-Dev_v1.7.34_b1.7.34.dmg"
+                sparkle:version="1.7.34"
+                sparkle:shortVersionString="1.7.34"
+                sparkle:edSignature="kXQ0+Fw9Yks8aHfmAwUDxZHvDPQ/Vc3F9vumMxf45UWcbQFYZhqv+sIpeWeodk1rPsbbRmUMe1mPMyBijEw8AQ=="
+                length="54431468"
                 type="application/octet-stream"
             />
         </item>
