@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.34</title>
+            <title>Version 1.7.35</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.34</h2>
-                <p>Capture des suggestions IA pendant l'appel (SAL-401) : les questions/réponses proposées par l'assistant sont désormais enregistrées et consultables a posteriori dans le détail de l'appel (onglet Suggestions IA).</p>
+                <h2>Sales Whisperer 1.7.35</h2>
+                <p>SAL-384: Rename "Stealth Mode" → "Undetectable Mode" (EN) / "mode furtif" → "mode indétectable" (FR) — string-only change, no code logic modified</p>
             ]]></description>
-            <pubDate>Wed, 10 Jun 2026 16:48:11 +0200</pubDate>
+            <pubDate>Sat, 13 Jun 2026 15:55:26 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.34/SalesWhispererApp-Dev_v1.7.34_b1.7.34.dmg"
-                sparkle:version="1.7.34"
-                sparkle:shortVersionString="1.7.34"
-                sparkle:edSignature="kXQ0+Fw9Yks8aHfmAwUDxZHvDPQ/Vc3F9vumMxf45UWcbQFYZhqv+sIpeWeodk1rPsbbRmUMe1mPMyBijEw8AQ=="
-                length="54431468"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.35/SalesWhispererApp-Dev_v1.7.35_b1.7.35.dmg"
+                sparkle:version="1.7.35"
+                sparkle:shortVersionString="1.7.35"
+                sparkle:edSignature="P3Xulkb+SlO9lRyAlaU5cMy2Nkq8aszxfGBxPpNO8TQoqfNserxYAAB2hQGEy6EGwXoV8VCtRLqJBGRkFsfrDw=="
+                length="54434698"
                 type="application/octet-stream"
             />
         </item>
