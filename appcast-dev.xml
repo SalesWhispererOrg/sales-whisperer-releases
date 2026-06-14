@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.35</title>
+            <title>Version 1.7.36</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.35</h2>
-                <p>SAL-384: Rename "Stealth Mode" → "Undetectable Mode" (EN) / "mode furtif" → "mode indétectable" (FR) — string-only change, no code logic modified</p>
+                <h2>Sales Whisperer 1.7.36</h2>
+                <p>Mise à jour vers la version 1.7.36</p>
             ]]></description>
-            <pubDate>Sat, 13 Jun 2026 15:55:26 +0200</pubDate>
+            <pubDate>Sun, 14 Jun 2026 22:15:01 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.35/SalesWhispererApp-Dev_v1.7.35_b1.7.35.dmg"
-                sparkle:version="1.7.35"
-                sparkle:shortVersionString="1.7.35"
-                sparkle:edSignature="P3Xulkb+SlO9lRyAlaU5cMy2Nkq8aszxfGBxPpNO8TQoqfNserxYAAB2hQGEy6EGwXoV8VCtRLqJBGRkFsfrDw=="
-                length="54434698"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.36/SalesWhispererApp-Dev_v1.7.36_b1.7.36.dmg"
+                sparkle:version="1.7.36"
+                sparkle:shortVersionString="1.7.36"
+                sparkle:edSignature="KG0YehIBGjtzyDgs2v5zJXYuV2HDh5AVRMhXVvhY1z2NNnc1gOEJ7A2IRUEhRAlyHXIZiEFMKDbDGcVvmnSdBA=="
+                length="54473138"
                 type="application/octet-stream"
             />
         </item>
