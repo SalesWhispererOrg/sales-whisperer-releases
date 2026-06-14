@@ -6,22 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.33</title>
+            <title>Version 1.7.36</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.33</h2>
-                <p>• Correctif majeur des appels longs : sur les appels de plus de ~40 min, les boutons Stop / Assistance / Questions de suivi restent disponibles et l'appel est toujours enregistré (plus de perte d'appel ni de résumé).
-• Filet de sécurité : l'appel en cours est sauvegardé même en cas de fermeture de l'app ou de mise en veille.
-• Résumé d'appel IA désormais disponible dès le plan Pro.
-• Correction du lien du tutoriel vidéo dans le menu de l'app.</p>
+                <h2>Sales Whisperer 1.7.36</h2>
+                <p>Mise à jour vers la version 1.7.36</p>
             ]]></description>
-            <pubDate>Wed, 10 Jun 2026 13:47:10 +0200</pubDate>
+            <pubDate>Sun, 14 Jun 2026 22:21:41 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.33/SalesWhispererApp_v1.7.33_b1.7.33.dmg"
-                sparkle:version="1.7.33"
-                sparkle:shortVersionString="1.7.33"
-                sparkle:edSignature="oYqa9bX8q9M7sPuex7m0idgE8SP2XayHh83q8Rx3SMI/1jyJ87kxFty9UGcPebX81aJoatj1y8sWtwgHya4QBQ=="
-                length="53965201"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.36/SalesWhispererApp_v1.7.36_b1.7.36.dmg"
+                sparkle:version="1.7.36"
+                sparkle:shortVersionString="1.7.36"
+                sparkle:edSignature="6GVhMjHAWAYf5whnj+xPPt0TXVSmfC8vLK3/kJwEoKdkRyQGjIeEM3MYzO5MJjoiZ6X2J4K0+N+rAvguQkHzCw=="
+                length="54016383"
                 type="application/octet-stream"
             />
         </item>
