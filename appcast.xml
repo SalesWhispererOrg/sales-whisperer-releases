@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.37</title>
+            <title>Version 1.7.38</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.37</h2>
-                <p>Mise à jour vers la version 1.7.37</p>
+                <h2>Sales Whisperer 1.7.38</h2>
+                <p>Fix : l'app arrête maintenant automatiquement l'enregistrement en cours lorsque vous quittez, et la transcription est préservée.</p>
             ]]></description>
-            <pubDate>Sun, 14 Jun 2026 22:57:08 +0200</pubDate>
+            <pubDate>Tue, 16 Jun 2026 08:03:15 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.37/SalesWhispererApp_v1.7.37_b1.7.37.dmg"
-                sparkle:version="1.7.37"
-                sparkle:shortVersionString="1.7.37"
-                sparkle:edSignature="yIT7pRHZzmuGqTj8PYF8heIvxAANQwTHd/XJ0Rr0C+vvOwXtkKAIaAt40pODfdYM9lpa9Nm+aBm7Zqd6YB04DQ=="
-                length="54020428"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.38/SalesWhispererApp_v1.7.38_b1.7.38.dmg"
+                sparkle:version="1.7.38"
+                sparkle:shortVersionString="1.7.38"
+                sparkle:edSignature="qeXdkktS387HOvBQYx3IWOFQrWA5gYq0cs766HlTKOY3VLMS2go0jmBJkIN0zT9lwXx1GYsS6dbXQslpNh9PBg=="
+                length="54023960"
                 type="application/octet-stream"
             />
         </item>
