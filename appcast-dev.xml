@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.38</title>
+            <title>Version 1.7.39</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.38</h2>
-                <p>Fix : l'app arrête maintenant automatiquement l'enregistrement en cours lorsque vous quittez, et la transcription est préservée.</p>
+                <h2>Sales Whisperer 1.7.39</h2>
+                <p>Fix affichage du plan : plus de 'Gratuit' erroné pour les comptes pending_payment/expired ; fetchUserPlan filtre is_active (SAL-326).</p>
             ]]></description>
-            <pubDate>Tue, 16 Jun 2026 08:57:53 +0200</pubDate>
+            <pubDate>Fri, 19 Jun 2026 15:59:43 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.38/SalesWhispererApp-Dev_v1.7.38_b1.7.38.dmg"
-                sparkle:version="1.7.38"
-                sparkle:shortVersionString="1.7.38"
-                sparkle:edSignature="/MARauVDj5mksfnITCEKtsloElWNO8H/rZ+EYv3S0m0tCtFmockmyRD/6qJkZR6SgqF+0VnEOpDf0Qgs457KCw=="
-                length="54479307"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.39/SalesWhispererApp-Dev_v1.7.39_b1.7.39.dmg"
+                sparkle:version="1.7.39"
+                sparkle:shortVersionString="1.7.39"
+                sparkle:edSignature="zRanb7lZOjZgEWvNQNRFpk7fIVsIwufydFYt7mGENWVfsXqumpCzC1iE9vpivOgPR3Pt5mDDdZawSr9ijTfoAQ=="
+                length="54479756"
                 type="application/octet-stream"
             />
         </item>
