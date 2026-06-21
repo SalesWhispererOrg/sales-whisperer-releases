@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.40</title>
+            <title>Version 1.7.41</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.40</h2>
-                <p>Compteur d'essai léger dans le menu profil (jours restants) + correctifs d'affichage du plan (SAL-375 / SAL-326).</p>
+                <h2>Sales Whisperer 1.7.41</h2>
+                <p>Deal picker avant démarrage d'appel (SAL-413) + correctifs plan/essai.</p>
             ]]></description>
-            <pubDate>Sat, 20 Jun 2026 09:47:41 +0200</pubDate>
+            <pubDate>Sun, 21 Jun 2026 16:34:17 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.40/SalesWhispererApp-Dev_v1.7.40_b1.7.40.dmg"
-                sparkle:version="1.7.40"
-                sparkle:shortVersionString="1.7.40"
-                sparkle:edSignature="tos506RP6WEA+74voBvOO4oPtODe732rkz6AiA2Xe8D67by8rEMDKkIyHnhssFpaUuDTu4zqi4m6GOmh3rjNCA=="
-                length="54484482"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.41/SalesWhispererApp-Dev_v1.7.41_b1.7.41.dmg"
+                sparkle:version="1.7.41"
+                sparkle:shortVersionString="1.7.41"
+                sparkle:edSignature="9oyJ6SJ3gDrFoLSeS+qJyJph1tjoN9w/M7nxj0fJp0dcA1dGHYeRPTrVevcfBMbdAS0gfR7EgKMvzIOZUXK+CQ=="
+                length="54599003"
                 type="application/octet-stream"
             />
         </item>
