@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.41</title>
+            <title>Version 1.7.42</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.41</h2>
-                <p>Deal picker avant démarrage d'appel (SAL-413) + correctifs plan/essai.</p>
+                <h2>Sales Whisperer 1.7.42</h2>
+                <p>Coaching in-call : prise en compte des appels précédents quand l'appel est lié à un deal (SAL-432) + prompt caching côté proxy.</p>
             ]]></description>
-            <pubDate>Sun, 21 Jun 2026 16:34:17 +0200</pubDate>
+            <pubDate>Sun, 21 Jun 2026 16:57:29 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.41/SalesWhispererApp-Dev_v1.7.41_b1.7.41.dmg"
-                sparkle:version="1.7.41"
-                sparkle:shortVersionString="1.7.41"
-                sparkle:edSignature="9oyJ6SJ3gDrFoLSeS+qJyJph1tjoN9w/M7nxj0fJp0dcA1dGHYeRPTrVevcfBMbdAS0gfR7EgKMvzIOZUXK+CQ=="
-                length="54599003"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.42/SalesWhispererApp-Dev_v1.7.42_b1.7.42.dmg"
+                sparkle:version="1.7.42"
+                sparkle:shortVersionString="1.7.42"
+                sparkle:edSignature="fDLPBxAkRS3WdbGRS6zfZbiAU31IIzX2IGe1YzC+lmihF3rmLmXbAVWfFr86jNJMZMZOsSRjq9QH2ZYXmO7sCg=="
+                length="54596632"
                 type="application/octet-stream"
             />
         </item>
