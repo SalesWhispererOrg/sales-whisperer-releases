@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.38</title>
+            <title>Version 1.7.42</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.38</h2>
-                <p>Fix : l'app arrête maintenant automatiquement l'enregistrement en cours lorsque vous quittez, et la transcription est préservée.</p>
+                <h2>Sales Whisperer 1.7.42</h2>
+                <p>Corrections d'affichage du plan et de l'essai : les comptes en attente de paiement n'affichent plus « Gratuit » mais « Aucun abonnement ». Ajout d'un compteur de jours d'essai restants dans le profil. Barre de crédits réservée aux administrateurs. Améliorations internes.</p>
             ]]></description>
-            <pubDate>Tue, 16 Jun 2026 08:03:15 +0200</pubDate>
+            <pubDate>Mon, 22 Jun 2026 23:10:42 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.38/SalesWhispererApp_v1.7.38_b1.7.38.dmg"
-                sparkle:version="1.7.38"
-                sparkle:shortVersionString="1.7.38"
-                sparkle:edSignature="qeXdkktS387HOvBQYx3IWOFQrWA5gYq0cs766HlTKOY3VLMS2go0jmBJkIN0zT9lwXx1GYsS6dbXQslpNh9PBg=="
-                length="54023960"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.42/SalesWhispererApp_v1.7.42_b1.7.42.dmg"
+                sparkle:version="1.7.42"
+                sparkle:shortVersionString="1.7.42"
+                sparkle:edSignature="DChNbHSl8VrETa7tRYbzk56Gf31UYOcjeOnafHV8P1CM8nBcUA76Jec94GiiLN9yth5XVJj3I2BSO+zZsFquBQ=="
+                length="54072458"
                 type="application/octet-stream"
             />
         </item>
