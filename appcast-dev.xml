@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.43</title>
+            <title>Version 1.7.44</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.43</h2>
-                <p>Rattachement appel ↔ deal (CRM) : à la fin d'un appel, choisis le deal concerné (recherche) ou crée-en un depuis l'appel. Le pipeline se met alors à jour automatiquement (prochaine action, objections, score). Le choix du deal avant l'appel reste disponible. [DEV — gating Pro+]</p>
+                <h2>Sales Whisperer 1.7.44</h2>
+                <p>Métriques par type d'appel (SAL-442) : sur vos appels, le dashboard affiche des métriques ciblées selon le mode (talk ratio, questions ouvertes, plus long monologue, patience après question, next step daté) avec alertes. Métriques temporelles désormais mesurées via les timestamps par tour. Nouveau panneau 'Questions de découverte' pendant les appels en mode Découverte : cochez vos questions préparées (SAL-445).</p>
             ]]></description>
-            <pubDate>Mon, 29 Jun 2026 22:35:25 +0200</pubDate>
+            <pubDate>Fri, 03 Jul 2026 18:06:47 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.43/SalesWhispererApp-Dev_v1.7.43_b1.7.43.dmg"
-                sparkle:version="1.7.43"
-                sparkle:shortVersionString="1.7.43"
-                sparkle:edSignature="5B8yqERYhd0Itr3G2kFnuIt6hHz7nuyYy1SisZYi613VGkVNNea9QR6sHMhlCbkv2vejAnBWuUCn6EYGKmfTAg=="
-                length="54731708"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.44/SalesWhispererApp-Dev_v1.7.44_b1.7.44.dmg"
+                sparkle:version="1.7.44"
+                sparkle:shortVersionString="1.7.44"
+                sparkle:edSignature="yFIOgZNDX9S9SlQ1OFmsb2R6+FO/I5ZZs5HA3bv0fxqPscbVFfOZHPyA/H8F4UZFbsjRcXDdSEzbQRdjAyWsCg=="
+                length="54853311"
                 type="application/octet-stream"
             />
         </item>
