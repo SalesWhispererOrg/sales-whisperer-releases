@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.44</title>
+            <title>Version 1.7.45</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.44</h2>
-                <p>Métriques par type d'appel (SAL-442) : sur vos appels, le dashboard affiche des métriques ciblées selon le mode (talk ratio, questions ouvertes, plus long monologue, patience après question, next step daté) avec alertes. Métriques temporelles désormais mesurées via les timestamps par tour. Nouveau panneau 'Questions de découverte' pendant les appels en mode Découverte : cochez vos questions préparées (SAL-445).</p>
+                <h2>Sales Whisperer 1.7.45</h2>
+                <p>Garde-fou appels abandonnés (SAL-454) : après 1h d'appel, l'app demande « Êtes-vous toujours en appel ? » (Oui/Non), re-demande toutes les 30 min, et coupe automatiquement après 5 min sans réponse — l'appel est finalisé proprement avec son résumé. Pour tester rapidement : Debug menu → Developer Tools → « Presence guardrail fast mode » (seuils 1 min/30 s/20 s).</p>
             ]]></description>
-            <pubDate>Fri, 03 Jul 2026 18:06:47 +0200</pubDate>
+            <pubDate>Fri, 03 Jul 2026 21:14:51 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.44/SalesWhispererApp-Dev_v1.7.44_b1.7.44.dmg"
-                sparkle:version="1.7.44"
-                sparkle:shortVersionString="1.7.44"
-                sparkle:edSignature="yFIOgZNDX9S9SlQ1OFmsb2R6+FO/I5ZZs5HA3bv0fxqPscbVFfOZHPyA/H8F4UZFbsjRcXDdSEzbQRdjAyWsCg=="
-                length="54853311"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.45/SalesWhispererApp-Dev_v1.7.45_b1.7.45.dmg"
+                sparkle:version="1.7.45"
+                sparkle:shortVersionString="1.7.45"
+                sparkle:edSignature="WZD3Ql8nSqRyNsK2F5YVn5nfX5AGVNZ2Fq8JFW5WMpp8kvv3b5CkKsrhHjkM9Tbgq3jSto47D4k3irvygy7pBA=="
+                length="54889544"
                 type="application/octet-stream"
             />
         </item>
