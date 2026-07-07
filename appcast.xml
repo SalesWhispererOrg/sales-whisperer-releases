@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.42</title>
+            <title>Version 1.7.46</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.42</h2>
-                <p>Corrections d'affichage du plan et de l'essai : les comptes en attente de paiement n'affichent plus « Gratuit » mais « Aucun abonnement ». Ajout d'un compteur de jours d'essai restants dans le profil. Barre de crédits réservée aux administrateurs. Améliorations internes.</p>
+                <h2>Sales Whisperer 1.7.46</h2>
+                <p>Nouveautés : questions de découverte pendant vos appels (préparez-les dans le dashboard, cochez-les en direct), métriques par type d'appel dans vos résumés, garde-fou anti-appel-oublié (confirmation après 1h), transcription améliorée (nouveau moteur + reconnaissance de vos noms de produits), recherche rapide de deal au lancement d'un appel.</p>
             ]]></description>
-            <pubDate>Mon, 22 Jun 2026 23:10:42 +0200</pubDate>
+            <pubDate>Tue, 07 Jul 2026 17:37:08 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.42/SalesWhispererApp_v1.7.42_b1.7.42.dmg"
-                sparkle:version="1.7.42"
-                sparkle:shortVersionString="1.7.42"
-                sparkle:edSignature="DChNbHSl8VrETa7tRYbzk56Gf31UYOcjeOnafHV8P1CM8nBcUA76Jec94GiiLN9yth5XVJj3I2BSO+zZsFquBQ=="
-                length="54072458"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.46/SalesWhispererApp_v1.7.46_b1.7.46.dmg"
+                sparkle:version="1.7.46"
+                sparkle:shortVersionString="1.7.46"
+                sparkle:edSignature="CZV3iUijySNuZjrrz7TwxmV/b/WCZ0Bp77QlMEToJbXEnyk1s+emrUUkj+pK6DR8hqYrbBj/6hF6HprOF6obCw=="
+                length="54469811"
                 type="application/octet-stream"
             />
         </item>
