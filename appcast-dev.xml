@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.46</title>
+            <title>Version 1.7.48</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.46</h2>
-                <p>Transcription améliorée : nouveau moteur plus précis en français, et vos noms de produits/société (Personnalisation) sont maintenant mieux reconnus à l'oreille (SAL-455). Nouvel appel : recherchez un deal en tapant son nom au lieu de dérouler la liste, et créez-le à la volée s'il n'existe pas (SAL-457).</p>
+                <h2>Sales Whisperer 1.7.48</h2>
+                <p>Fin d'appel instantanée : l'app ne génère plus le résumé elle-même — le serveur s'en charge en arrière-plan et le résumé complet (avec métriques du mode et questions de découverte) vous attend sur le dashboard. Plus de fenêtre de chargement, une simple notification discrète. Le réglage « génération automatique » disparaît (toujours automatique, côté serveur). Inclut aussi le prérèglage de langue par deal (SAL-469).</p>
             ]]></description>
-            <pubDate>Sun, 05 Jul 2026 23:25:42 +0200</pubDate>
+            <pubDate>Thu, 09 Jul 2026 12:14:14 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.46/SalesWhispererApp-Dev_v1.7.46_b1.7.46.dmg"
-                sparkle:version="1.7.46"
-                sparkle:shortVersionString="1.7.46"
-                sparkle:edSignature="i5EftV6N2wDUwzxlmF3p206Pm4Q2iQqw/37uaET9MCGfSYTRx7uJZSneqILD3Haiw9RoXtFONtG2q+9nKJD2Bw=="
-                length="54951081"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.48/SalesWhispererApp-Dev_v1.7.48_b1.7.48.dmg"
+                sparkle:version="1.7.48"
+                sparkle:shortVersionString="1.7.48"
+                sparkle:edSignature="dmRD2953xPQ4tTKcEI2Awd8M4bjYFPQOIetQ6s6JMwuRLz6VlBkBt/mv5PZSOO19sXffvyTAr5jWVE7aUNSzAA=="
+                length="54457220"
                 type="application/octet-stream"
             />
         </item>
