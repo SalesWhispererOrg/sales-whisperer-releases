@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.48</title>
+            <title>Version 1.7.49</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.48</h2>
-                <p>Fin d'appel instantanée : l'app ne génère plus le résumé elle-même — le serveur s'en charge en arrière-plan et le résumé complet (avec métriques du mode et questions de découverte) vous attend sur le dashboard. Plus de fenêtre de chargement, une simple notification discrète. Le réglage « génération automatique » disparaît (toujours automatique, côté serveur). Inclut aussi le prérèglage de langue par deal (SAL-469).</p>
+                <h2>Sales Whisperer 1.7.49</h2>
+                <p>Correctif mode indétectable (SAL-474) : la fenêtre de l'app ne « flashe » plus dans le partage d'écran à chaque interaction — elle est masquée du partage dès sa création. Inclut aussi la fin d'appel instantanée (le résumé se génère côté serveur, plus d'attente).</p>
             ]]></description>
-            <pubDate>Thu, 09 Jul 2026 12:14:14 +0200</pubDate>
+            <pubDate>Fri, 10 Jul 2026 23:23:38 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.48/SalesWhispererApp-Dev_v1.7.48_b1.7.48.dmg"
-                sparkle:version="1.7.48"
-                sparkle:shortVersionString="1.7.48"
-                sparkle:edSignature="dmRD2953xPQ4tTKcEI2Awd8M4bjYFPQOIetQ6s6JMwuRLz6VlBkBt/mv5PZSOO19sXffvyTAr5jWVE7aUNSzAA=="
-                length="54457220"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.49/SalesWhispererApp-Dev_v1.7.49_b1.7.49.dmg"
+                sparkle:version="1.7.49"
+                sparkle:shortVersionString="1.7.49"
+                sparkle:edSignature="tCzTf/xMLrEGODcZi5OTkRD6Mhicbbu3Eqg3Y/+kx3UPBju0ZHshhx/3Tnrf8nuD6961Kxe37TL4OpPO+TlqDg=="
+                length="54458473"
                 type="application/octet-stream"
             />
         </item>
