@@ -6,19 +6,19 @@
         <description>Mises à jour DEV de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.49</title>
+            <title>Version 1.7.50</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.49</h2>
-                <p>Correctif mode indétectable (SAL-474) : la fenêtre de l'app ne « flashe » plus dans le partage d'écran à chaque interaction — elle est masquée du partage dès sa création. Inclut aussi la fin d'appel instantanée (le résumé se génère côté serveur, plus d'attente).</p>
+                <h2>Sales Whisperer 1.7.50</h2>
+                <p>Panneau Call Context corrigé (SAL-477) : il affiche enfin votre contexte réel (industrie, contexte commercial, client cible/ICP, produits) au lieu de « Non renseigné » partout. Inclut aussi le correctif du mode indétectable (plus de flash à l'écran) et la fin d'appel instantanée.</p>
             ]]></description>
-            <pubDate>Fri, 10 Jul 2026 23:23:38 +0200</pubDate>
+            <pubDate>Sat, 11 Jul 2026 16:34:05 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.49/SalesWhispererApp-Dev_v1.7.49_b1.7.49.dmg"
-                sparkle:version="1.7.49"
-                sparkle:shortVersionString="1.7.49"
-                sparkle:edSignature="tCzTf/xMLrEGODcZi5OTkRD6Mhicbbu3Eqg3Y/+kx3UPBju0ZHshhx/3Tnrf8nuD6961Kxe37TL4OpPO+TlqDg=="
-                length="54458473"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/dev-v1.7.50/SalesWhispererApp-Dev_v1.7.50_b1.7.50.dmg"
+                sparkle:version="1.7.50"
+                sparkle:shortVersionString="1.7.50"
+                sparkle:edSignature="0xDhZy0LgelexI5Hr1/hTdp3Z6e2jcohm6pdb6Z8J7MItOP5GqTYvMxuC5hx6KpE1+1KyaMR1espFYrNembmBQ=="
+                length="54504922"
                 type="application/octet-stream"
             />
         </item>
