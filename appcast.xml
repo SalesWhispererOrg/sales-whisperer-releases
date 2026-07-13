@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.47</title>
+            <title>Version 1.7.51</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.47</h2>
-                <p>Votre langue vous suit désormais : l'app s'aligne sur la langue de votre compte (interface et langue d'appel par défaut), et si un deal a une « langue du prospect », le sélecteur de langue se prérègle automatiquement quand vous liez ce deal à un appel.</p>
+                <h2>Sales Whisperer 1.7.51</h2>
+                <p>Nouveautés : la fin d'appel est instantanée (le résumé se prépare tout seul et vous attend sur le dashboard), le mode indétectable ne fait plus apparaître la fenêtre dans les partages d'écran, et le panneau Call Context affiche enfin votre contexte commercial et votre client cible.</p>
             ]]></description>
-            <pubDate>Wed, 08 Jul 2026 17:10:59 +0200</pubDate>
+            <pubDate>Mon, 13 Jul 2026 09:35:51 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.47/SalesWhispererApp_v1.7.47_b1.7.47.dmg"
-                sparkle:version="1.7.47"
-                sparkle:shortVersionString="1.7.47"
-                sparkle:edSignature="0KkqQPc+CVOQZRIvP7uQ01y9TihQajgtRJ07Gfx9pb4r9Ac8mUfYPjvxPL0dVHVpMGxg4XmpbNe54bUmdhV7CA=="
-                length="54478004"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.51/SalesWhispererApp_v1.7.51_b1.7.51.dmg"
+                sparkle:version="1.7.51"
+                sparkle:shortVersionString="1.7.51"
+                sparkle:edSignature="+t4yl8KgrNJpH7/dX3+et9gj2nHUEZ+czEytbA6PZC7/tLivonNnEd0EhlKHYo/W38qFvCFZpfmT1wtxQKD4CQ=="
+                length="54027685"
                 type="application/octet-stream"
             />
         </item>
