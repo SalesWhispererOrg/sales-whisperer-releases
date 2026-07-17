@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.51</title>
+            <title>Version 1.7.52</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.51</h2>
-                <p>Nouveautés : la fin d'appel est instantanée (le résumé se prépare tout seul et vous attend sur le dashboard), le mode indétectable ne fait plus apparaître la fenêtre dans les partages d'écran, et le panneau Call Context affiche enfin votre contexte commercial et votre client cible.</p>
+                <h2>Sales Whisperer 1.7.52</h2>
+                <p>Corrections internes : alignement du contrôle d'accès aux fonctionnalités selon votre offre (Deal Intelligence réservé aux offres Performance et supérieures).</p>
             ]]></description>
-            <pubDate>Mon, 13 Jul 2026 09:35:51 +0200</pubDate>
+            <pubDate>Fri, 17 Jul 2026 09:22:44 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.51/SalesWhispererApp_v1.7.51_b1.7.51.dmg"
-                sparkle:version="1.7.51"
-                sparkle:shortVersionString="1.7.51"
-                sparkle:edSignature="+t4yl8KgrNJpH7/dX3+et9gj2nHUEZ+czEytbA6PZC7/tLivonNnEd0EhlKHYo/W38qFvCFZpfmT1wtxQKD4CQ=="
-                length="54027685"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.52/SalesWhispererApp_v1.7.52_b1.7.52.dmg"
+                sparkle:version="1.7.52"
+                sparkle:shortVersionString="1.7.52"
+                sparkle:edSignature="uUz2LYL6XK2xysvdFdLBETqKWcLIUvtV/kspVfD07jMlEbVOrchEoyMlLBpxJnqTJEsCqQWbNSlT8v+PcI1cAg=="
+                length="54027787"
                 type="application/octet-stream"
             />
         </item>
