@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.7.52</title>
+            <title>Version 1.7.53</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.7.52</h2>
-                <p>Corrections internes : alignement du contrôle d'accès aux fonctionnalités selon votre offre (Deal Intelligence réservé aux offres Performance et supérieures).</p>
+                <h2>Sales Whisperer 1.7.53</h2>
+                <p>Le secteur d'activité renseigné dans votre contexte business est désormais transmis à l'assistant IA pendant l'appel.</p>
             ]]></description>
-            <pubDate>Fri, 17 Jul 2026 09:22:44 +0200</pubDate>
+            <pubDate>Fri, 17 Jul 2026 11:30:33 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.52/SalesWhispererApp_v1.7.52_b1.7.52.dmg"
-                sparkle:version="1.7.52"
-                sparkle:shortVersionString="1.7.52"
-                sparkle:edSignature="uUz2LYL6XK2xysvdFdLBETqKWcLIUvtV/kspVfD07jMlEbVOrchEoyMlLBpxJnqTJEsCqQWbNSlT8v+PcI1cAg=="
-                length="54027787"
+                url="https://github.com/SalesWhispererOrg/sales-whisperer-releases/releases/download/v1.7.53/SalesWhispererApp_v1.7.53_b1.7.53.dmg"
+                sparkle:version="1.7.53"
+                sparkle:shortVersionString="1.7.53"
+                sparkle:edSignature="Wkc9l1Y9CWgWSN1ZSdc19jy86gPg6ZbTbZ7/gcHZ0QHX+7LsboEwEvcIYMPTv/xiojtM8H8ixm6PNeEjfklDCA=="
+                length="54032029"
                 type="application/octet-stream"
             />
         </item>
